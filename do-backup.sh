@@ -15,7 +15,7 @@ if [ -z "${ics-}" ]; then
 fi
 
 
-if curl -z "$ics" -o "$ics" -- "$url" && [ -s "$ics" ]; then
+if curl -sS -z "$ics" -o "$ics" -- "$url" && [ -s "$ics" ]; then
 	sed -i -e '/^DTSTAMP:/d' -- "$ics"
 	if ! git diff --quiet HEAD -- "$ics"; then
 		git commit "$@" -om "$message" -- "$ics"
