@@ -5,6 +5,9 @@ readonly url='https://calendar.google.com/calendar/ical/irrlicht.verein%40gmail.
 readonly message='Regular calendar back-up'
 readonly author='Irrlicht e. V. <post@irrlicht-verein.de>'
 
+case "$0" in
+	*/*) cd "${0%/*}";;
+esac
 
 set -- -q --porcelain --no-allow-empty --no-edit --no-gpg-sign
 [ -z "${author-}" ] ||	set -- "$@" --author="$author"
