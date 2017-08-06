@@ -9,7 +9,7 @@ case "$0" in
 	*/*) cd "${0%/*}";;
 esac
 
-set -- -q --porcelain --no-allow-empty --no-edit --no-gpg-sign
+set -- -q --no-allow-empty --no-edit --no-gpg-sign
 [ -z "${author-}" ] ||	set -- "$@" --author="$author"
 if [ -z "${ics-}" ]; then
 	ics="${url%%[\?\#]*}"
