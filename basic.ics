@@ -26,6 +26,69 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20171124T183000Z
+DTEND:20171124T213000Z
+UID:g8dcdba87gonpt1a3q5njosf88@google.com
+CREATED:20170708T094909Z
+DESCRIPTION:Am Freitag ab 19.30 Uhr vor der BuchBerlin geht es in der Welte
+ nSchmiede um Weltenbau aus Sicht der Fantasy-Autoren Laurence Horn und Matt
+ hias Teut. Mit Humor und Leidenschaft berichten sie aus ihren Welten und ge
+ ben Kostproben aus ihren Büchern. Sie freuen sich auf eine lebhafte Diskuss
+ ion zum Thema und auf die Pausenverköstigung - denn vielleicht gibt es wied
+ er edle Speisen aus der Welt von Erellgorh!\n\nEinen Exlusiven Teaser seine
+ s neusten Bandes\, wird Matthias Teut bei uns in der WeltenSchmiede Präsent
+ ieren.\n\nStart 19.30 Uhr Ende ca. 22.30 Uhr\nDer Eintritt beträgt 5€ (Mitg
+ lieder des Irrlicht e.V. 2\,50€)\n\nIhr könnt uns gerne eine E-Mail schreib
+ en (post [at] irrlicht-verein.de)\, dann setzten wir Euch auf die Gästelist
+ e und reservieren Euch Plätze.\n\nWir freuen uns auf Euch.
+LAST-MODIFIED:20171020T133049Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lesung "Weltenbauer unter sich" (öffentlich / alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171104T140000Z
+DTEND:20171104T220000Z
+UID:4o8c3s2bh67o5i4p9lecd71mgj@google.com
+CREATED:20170929T201431Z
+DESCRIPTION:
+LAST-MODIFIED:20171020T132723Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:ReRoll - Brettspieltag Essenneuheiten (öffentlich/blauer & grüner R
+ aum)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171021T130000Z
+DTEND:20171021T180000Z
+UID:2ti3hposlkf404v7jh0cq50e4o@google.com
+CREATED:20170928T191523Z
+DESCRIPTION:dsa.illusionist[ at ]googlemail.com
+LAST-MODIFIED:20171020T132535Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DSA LXXXIII Die Prophezeihung (intern / roter Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171021T180000Z
+DTEND:20171021T215900Z
+UID:qjkpqbkdnpr7518dois4oi1cmc@google.com
+CREATED:20170522T114325Z
+DESCRIPTION:dsa.illusionist[ at ]googlemail.com
+LAST-MODIFIED:20171020T132524Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:DSA LXXXIII Die Prophezeihung (intern / blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20171024T180000Z
 DTEND:20171024T210000Z
 UID:4dduvpeimvn8rr8h8jjftt1oab@google.com
@@ -90,20 +153,6 @@ LOCATION:
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Shadowrun Boston (intern / roter Raum)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171104T130000Z
-DTEND:20171104T220000Z
-UID:4o8c3s2bh67o5i4p9lecd71mgj@google.com
-CREATED:20170929T201431Z
-DESCRIPTION:
-LAST-MODIFIED:20171014T081932Z
-LOCATION:
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:ReRoll - Brettspieltag Essenneuheiten (öffentlich/blauer & grüner R
- aum)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,32 +1092,6 @@ SUMMARY:Pathfinder Card Game (intern/blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20171021T130000Z
-DTEND:20171021T190000Z
-UID:2ti3hposlkf404v7jh0cq50e4o@google.com
-CREATED:20170928T191523Z
-DESCRIPTION:dsa.illusionist[ at ]googlemail.com
-LAST-MODIFIED:20170928T191523Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:DSA LXXXIII Die Prophezeihung (intern / roter Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171021T190000Z
-DTEND:20171021T215900Z
-UID:qjkpqbkdnpr7518dois4oi1cmc@google.com
-CREATED:20170522T114325Z
-DESCRIPTION:dsa.illusionist[ at ]googlemail.com
-LAST-MODIFIED:20170928T191433Z
-LOCATION:
-SEQUENCE:2
-STATUS:CONFIRMED
-SUMMARY:DSA LXXXIII Die Prophezeihung (intern / blauer Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20171021T080000Z
 DTEND:20171021T180000Z
 UID:50n1c3ql1vt84o94c1mbl2o0ag@google.com
@@ -1890,19 +1913,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Baumscheibenfest 2017 (öffentlich / alle Räume)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171124T183000Z
-DTEND:20171124T220000Z
-UID:g8dcdba87gonpt1a3q5njosf88@google.com
-CREATED:20170708T094909Z
-DESCRIPTION:
-LAST-MODIFIED:20170708T094909Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Lesung Matthias Teut - Erellghor 3.Band (öffentlich / alle Räume)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
