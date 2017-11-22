@@ -26,6 +26,114 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20171228T140000Z
+DTEND:20171228T200000Z
+UID:64pj6d35c4om6b9k68q3ib9k70s3ibb16opjcbb174q64c3475gj2dpg6o@google.com
+CREATED:20171116T220119Z
+DESCRIPTION:
+LAST-MODIFIED:20171121T153119Z
+LOCATION:
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:Descent (?/?)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170721T193000
+DTEND;TZID=Europe/Berlin:20170721T235900
+RRULE:FREQ=MONTHLY;UNTIL=20180419T215959Z;BYDAY=3FR
+EXDATE;TZID=Europe/Berlin:20171215T193000
+UID:p821599v5jmvq8g3s9dh52dtvg@google.com
+CREATED:20170708T100942Z
+DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
+ st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
+ .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
+ irrlicht-verein.de
+LAST-MODIFIED:20171121T153018Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friday is Highday! (öffentlich / roter Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20180420T193000
+DTEND;TZID=Europe/Berlin:20180420T235900
+RRULE:FREQ=MONTHLY;BYDAY=3FR
+UID:p821599v5jmvq8g3s9dh52dtvg_R20180420T173000@google.com
+CREATED:20170708T100942Z
+DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
+ st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
+ .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
+ irrlicht-verein.de
+LAST-MODIFIED:20171121T153018Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friday is Highday! (öffentlich / grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170602T193000
+DTEND;TZID=Europe/Berlin:20170602T235900
+RRULE:FREQ=MONTHLY;WKST=MO;UNTIL=20180405T215959Z;BYDAY=1FR
+UID:5qclhcvem85glhpj5knreekl6k@google.com
+CREATED:20150827T100334Z
+DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
+ st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
+ .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
+ irrlicht-verein.de
+LAST-MODIFIED:20171121T152955Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Friday is Highday! (öffentlich / roter Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20180406T193000
+DTEND;TZID=Europe/Berlin:20180406T235900
+RRULE:FREQ=MONTHLY;WKST=MO;BYDAY=1FR
+UID:5qclhcvem85glhpj5knreekl6k_R20180406T173000@google.com
+CREATED:20150827T100334Z
+DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
+ st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
+ .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
+ irrlicht-verein.de
+LAST-MODIFIED:20171121T152955Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Friday is Highday! (öffentlich / grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T170000Z
+DTEND:20171218T213000Z
+UID:1eaf2q37mnlt58eln6qg32adbr@google.com
+CREATED:20171121T140439Z
+DESCRIPTION:
+LAST-MODIFIED:20171121T140439Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars D6 (intern/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T170000Z
+DTEND:20171204T213000Z
+UID:57mv30rsf4jmvgosa1jr3vd02c@google.com
+CREATED:20171121T140412Z
+DESCRIPTION:
+LAST-MODIFIED:20171121T140412Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars D6 (intern/roter Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20180316T193000
 DTEND;TZID=Europe/Berlin:20180316T235900
 UID:p821599v5jmvq8g3s9dh52dtvg@google.com
@@ -155,19 +263,6 @@ LOCATION:
 SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:Friday is Highday! (öffentlich / grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20171228T140000Z
-DTEND:20171228T200000Z
-UID:64pj6d35c4om6b9k68q3ib9k70s3ibb16opjcbb174q64c3475gj2dpg6o@google.com
-CREATED:20171116T220119Z
-DESCRIPTION:
-LAST-MODIFIED:20171116T220119Z
-LOCATION:
-SEQUENCE:1
-STATUS:TENTATIVE
-SUMMARY:Descent 
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2045,23 +2140,6 @@ SUMMARY:Friday is Highday! (öffentlich / roter Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170602T193000
-DTEND;TZID=Europe/Berlin:20170602T235900
-RRULE:FREQ=MONTHLY;WKST=MO;BYDAY=1FR
-UID:5qclhcvem85glhpj5knreekl6k@google.com
-CREATED:20150827T100334Z
-DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
- st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
- .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
- irrlicht-verein.de
-LAST-MODIFIED:20170708T101033Z
-LOCATION:
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:Friday is Highday! (öffentlich / roter Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20170505T193000
 DTEND;TZID=Europe/Berlin:20170505T235900
 UID:m42fn767ltgfm9frpi6b00ntio@google.com
@@ -2076,24 +2154,6 @@ LOCATION:
 SEQUENCE:2
 STATUS:CONFIRMED
 SUMMARY:Friday is Highday! (öffentlich / grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170721T193000
-DTEND;TZID=Europe/Berlin:20170721T235900
-RRULE:FREQ=MONTHLY;BYDAY=3FR
-EXDATE;TZID=Europe/Berlin:20171215T193000
-UID:p821599v5jmvq8g3s9dh52dtvg@google.com
-CREATED:20170708T100942Z
-DESCRIPTION:Der inoffizielle Brettspieltag jeden 1 & 3 Freitag\, außer es i
- st mal keiner da! \;-)\nKann mal vor dem WeltenSchmiede Spieletag vorkommen
- .\nAlso wenn ihr Lust habt kommt vorbei und spielt mit...\n\nKontakt: post@
- irrlicht-verein.de
-LAST-MODIFIED:20170708T100942Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Friday is Highday! (öffentlich / roter Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
