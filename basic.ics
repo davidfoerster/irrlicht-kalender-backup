@@ -26,6 +26,24 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20180224T120000Z
+DTEND:20180224T225900Z
+UID:efmica8485e4g2v385acjlc428@google.com
+CREATED:20170708T095457Z
+DESCRIPTION:Der GRT 2018 bei uns in der WeltenSchmiede\, mehr zum GRT und d
+ ie Anmeldung zu den einzelnen Gruppen\, gibt es dann <a href="https://www.i
+ rrlicht-verein.de/www-irrlicht-verein-de/forum/index.php/\;focus=STRATP_com
+ _cm4all_wdn_PhpBB_8562136&amp\;path=.$2fviewtopic.php?f=35&amp\;t=69">HIER<
+ /a>:<br><br>Kontakt: <a href="mailto:post@irrlicht-verein.de" target="_blan
+ k">post@irrlicht-verein.de</a>
+LAST-MODIFIED:20180212T142357Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gratis Rollenspiel Tag 2018 (öffentlich / alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20180209T180000Z
 DTEND:20180209T223000Z
 UID:hdd2oi8729spfp9b1uo76ne2qk@google.com
@@ -3122,21 +3140,6 @@ LOCATION:
 SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:Warmachine (öffentlich/blauer Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180224T120000Z
-DTEND:20180224T225900Z
-UID:efmica8485e4g2v385acjlc428@google.com
-CREATED:20170708T095457Z
-DESCRIPTION:Der GRT 2018 bei uns in der WeltenSchmiede\, mehr zum GRT und d
- ie Anmeldung zu den einzelnen Gruppen\, gibt es dann hier als Link: \n\nKon
- takt: post@irrlicht-verein.de
-LAST-MODIFIED:20170708T095457Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Gratis Rollenspiel Tag 2018 (öffentlich / alle Räume)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
