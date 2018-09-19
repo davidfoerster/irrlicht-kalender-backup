@@ -44,6 +44,78 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170816T180000
+DTEND;TZID=Europe/Berlin:20170816T223000
+UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20170816T180000
+CREATED:20170708T090514Z
+DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
+ ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
+  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
+ ost@irrlicht-verein.de
+LAST-MODIFIED:20180918T210828Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars X-Wing (öffentlich / grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170719T180000
+DTEND;TZID=Europe/Berlin:20170719T223000
+UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20170719T180000
+CREATED:20170708T090514Z
+DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
+ ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
+  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
+ ost@irrlicht-verein.de
+LAST-MODIFIED:20180918T210828Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars X-Wing (öffentlich / grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20180321T190000
+DTEND;TZID=Europe/Berlin:20180321T223000
+UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20180321T180000
+CREATED:20170708T090514Z
+DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
+ ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
+  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
+ ost@irrlicht-verein.de
+LAST-MODIFIED:20180918T210828Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Star Wars X-Wing (öffentlich / blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170719T180000
+DTEND;TZID=Europe/Berlin:20170719T223000
+RRULE:FREQ=MONTHLY;BYDAY=3WE
+EXDATE;TZID=Europe/Berlin:20180919T180000
+EXDATE;TZID=Europe/Berlin:20180221T180000
+EXDATE;TZID=Europe/Berlin:20180117T180000
+EXDATE;TZID=Europe/Berlin:20171115T180000
+UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
+CREATED:20170708T090514Z
+DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
+ ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
+  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
+ ost@irrlicht-verein.de
+LAST-MODIFIED:20180918T210828Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Star Wars X-Wing (öffentlich / blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20181011T160000Z
 DTEND:20181011T180000Z
 UID:3oaopobddncdrmc3h9mg3js8c0@google.com
@@ -134,20 +206,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Warhammer 40K (intern / blauer & grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181006T130000Z
-DTEND:20181006T215900Z
-UID:171mvhnaacn9r8c2v32ahci5qs@google.com
-CREATED:20180830T210920Z
-DESCRIPTION:dsa.illusionist[ at ]<a href="http://googlemail.com" target="_b
- lank">googlemail.com</a>
-LAST-MODIFIED:20180830T210920Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:DSA LXXXXIV Die Prophezeihung (intern / blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -2149,23 +2207,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Warhammer 40K (intern / blauer & grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20180321T190000
-DTEND;TZID=Europe/Berlin:20180321T223000
-UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
-RECURRENCE-ID;TZID=Europe/Berlin:20180321T180000
-CREATED:20170708T090514Z
-DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
- ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
-  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
- ost@irrlicht-verein.de
-LAST-MODIFIED:20180320T080630Z
-LOCATION:
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Star Wars X-Wing (öffentlich / blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5405,60 +5446,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Midgard/Cthulhu (intern / blauer Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170816T180000
-DTEND;TZID=Europe/Berlin:20170816T223000
-UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
-RECURRENCE-ID;TZID=Europe/Berlin:20170816T180000
-CREATED:20170708T090514Z
-DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
- ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
-  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
- ost@irrlicht-verein.de
-LAST-MODIFIED:20170708T090618Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Wars X-Wing (öffentlich / grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170719T180000
-DTEND;TZID=Europe/Berlin:20170719T223000
-UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
-RECURRENCE-ID;TZID=Europe/Berlin:20170719T180000
-CREATED:20170708T090514Z
-DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
- ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
-  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
- ost@irrlicht-verein.de
-LAST-MODIFIED:20170708T090551Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Wars X-Wing (öffentlich / grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170719T180000
-DTEND;TZID=Europe/Berlin:20170719T223000
-RRULE:FREQ=MONTHLY;BYDAY=3WE
-EXDATE;TZID=Europe/Berlin:20180221T180000
-EXDATE;TZID=Europe/Berlin:20180117T180000
-EXDATE;TZID=Europe/Berlin:20171115T180000
-UID:10fvp4r5lh7rlcntee6bcf2ego@google.com
-CREATED:20170708T090514Z
-DESCRIPTION:An jedem dritte Mittwoch im Monat wird jetzt das X-Wing Miniatu
- ren-Spiel gespielt. Hier in der WeltenSchmiede\, werden ab jetzt regelmäßig
-  die Kämpfe im All ausgetragen.\nMöge die Macht mit dir sein!\n\nKontakt: p
- ost@irrlicht-verein.de
-LAST-MODIFIED:20170708T090514Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Star Wars X-Wing (öffentlich / blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
