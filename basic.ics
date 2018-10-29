@@ -44,6 +44,153 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20181102T150000Z
+DTEND:20181104T220000Z
+UID:3hmo41qs2t68c8o31s3ehgfqki@google.com
+CREATED:20180410T153355Z
+DESCRIPTION:Am Allerheiligen-Wochenende wird gespielt!\nNicht nur in der We
+ ltenSchmiede sondern Deutschland weit.\n\nAm ReRoll-Weekend dürft Ihr\, wie
+  der Name es vermuten lässt\, Würfelwürfe\, die Euch nicht gefallen (oder d
+ ie Ihr nicht brauchen könnt) einfach neu würfeln. Ohne Diskussion. In jeder
+  Phase des Spiels. In jedem Spiel. Jeden einzelnen Würfelwurf\, egal\, was 
+ ausgewürfelt werden soll. Den neu gewürfelten Wurf müsst Ihr dann aber akze
+ ptieren. Jedes Mal\, wenn Ihr neu würfelt („re-rollt“) kostet Euch das alle
+ rdings 50 Cent. Pro Würfel. Ihr dürft Euch Euer Schicksal also weitestgehen
+ d erkaufen.\n\n„Im echten Leben kann man nicht neuwürfeln!“. Eine bittere u
+ nd unabänderliche Wahrheit. Kann man nicht. Man kann aber helfen.\nUnd gena
+ u deswegen gibt es das Tabletop-Network-ReRoll-Weekend: Wir helfen.\nDas ge
+ samte erwürfelte Geld wird gesammelt und im Namen des Tabletop-Network dem 
+ „Weisser Ring e.V.“ gespendet und kommt somit unmittelbar Kriminalitätsopfe
+ rn zugute.\n\nBei uns könnt ihr von Freitagabend bis Sonntagabend spielen.\
+ n\n\nNicht vergessen: Jede einzelne Teilnahme\, jedes einzelne Spiel\, jede
+ r einzelne neu gewürfelte Wurf zählt.\n\nNatürlich ist der Eintritt kostenl
+ os.
+LAST-MODIFIED:20181028T232256Z
+LOCATION:Irrlicht e.V.\, Karl-Kunger-Straße 4\, 12435 Berlin\, Deutschland
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Tabletop-Network ReRoll-Weekend (alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181104T130000Z
+DTEND:20181104T220000Z
+UID:1lhm77ucu6ooo02cr3kgdlab01@google.com
+CREATED:20181028T232210Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T232210Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ReRoll Brettspiele (öffentlich / alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181103T170000Z
+DTEND:20181103T213000Z
+UID:7d8seoppfqkc47r6te1djt7j27@google.com
+CREATED:20181028T232042Z
+DESCRIPTION:Anmeldung erforderlich
+LAST-MODIFIED:20181028T232042Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Null Singularität  (öffentlich - Anmeldung erforderlich / blauer Ra
+ um)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20181113T183000
+DTEND;TZID=Europe/Berlin:20181113T220000
+UID:d3dumhr90s2048mj0f5g4k5b80@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20181113T183000
+CREATED:20180622T184205Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T231640Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:D&D 5 Tarkass Speer (intern/ grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181113T173000Z
+DTEND:20181113T220000Z
+UID:38udpo890ufrbp4h7vujdoes2s@google.com
+CREATED:20180615T104014Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T231620Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Spielen mit Teut (Öffentlich /blauer Raum)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170728T200000
+DTEND;TZID=Europe/Berlin:20170728T235900
+UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20170728T200000
+CREATED:20170116T185758Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T231553Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Warmachine (öffentlich/roter+grüner Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20181102T160000
+DTEND;TZID=Europe/Berlin:20181102T233000
+RRULE:FREQ=WEEKLY;WKST=MO;BYDAY=FR
+EXDATE;TZID=Europe/Berlin:20181214T160000
+UID:rjtnuk89vdg7til35kq0ivhf7o@google.com
+CREATED:20170116T185758Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T231553Z
+LOCATION:
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Warmachine (öffentlich/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170512T200000
+DTEND;TZID=Europe/Berlin:20170512T235900
+UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
+RECURRENCE-ID;TZID=Europe/Berlin:20170512T200000
+CREATED:20170116T185758Z
+DESCRIPTION:entfällt Wahrscheinlich
+LAST-MODIFIED:20181028T231553Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Warmachine (öffentlich/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Berlin:20170407T200000
+DTEND;TZID=Europe/Berlin:20170407T235900
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20181101T225959Z;BYDAY=FR
+EXDATE;TZID=Europe/Berlin:20180126T200000
+EXDATE;TZID=Europe/Berlin:20180119T200000
+EXDATE;TZID=Europe/Berlin:20171215T200000
+EXDATE;TZID=Europe/Berlin:20171124T200000
+EXDATE;TZID=Europe/Berlin:20170929T200000
+EXDATE;TZID=Europe/Berlin:20170908T200000
+EXDATE;TZID=Europe/Berlin:20170616T200000
+UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
+CREATED:20170116T185758Z
+DESCRIPTION:
+LAST-MODIFIED:20181028T231553Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Warmachine (öffentlich/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20181217T170000Z
 DTEND:20181217T210000Z
 UID:1ihd78v7nrccu9drgqk4kdgrgk@google.com
@@ -632,56 +779,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Haloween Zocken (intern / grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170728T200000
-DTEND;TZID=Europe/Berlin:20170728T235900
-UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
-RECURRENCE-ID;TZID=Europe/Berlin:20170728T200000
-CREATED:20170116T185758Z
-DESCRIPTION:
-LAST-MODIFIED:20181005T211001Z
-LOCATION:
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:Warmachine (öffentlich/roter+grüner Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170512T200000
-DTEND;TZID=Europe/Berlin:20170512T235900
-UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
-RECURRENCE-ID;TZID=Europe/Berlin:20170512T200000
-CREATED:20170116T185758Z
-DESCRIPTION:entfällt Wahrscheinlich
-LAST-MODIFIED:20181005T211001Z
-LOCATION:
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:Warmachine (öffentlich/blauer Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Europe/Berlin:20170407T200000
-DTEND;TZID=Europe/Berlin:20170407T235900
-RRULE:FREQ=WEEKLY;WKST=MO;BYDAY=FR
-EXDATE;TZID=Europe/Berlin:20181214T200000
-EXDATE;TZID=Europe/Berlin:20180126T200000
-EXDATE;TZID=Europe/Berlin:20180119T200000
-EXDATE;TZID=Europe/Berlin:20171215T200000
-EXDATE;TZID=Europe/Berlin:20171124T200000
-EXDATE;TZID=Europe/Berlin:20170929T200000
-EXDATE;TZID=Europe/Berlin:20170908T200000
-EXDATE;TZID=Europe/Berlin:20170616T200000
-UID:42a1u1nf684a1cb5n5muc9ndrc@google.com
-CREATED:20170116T185758Z
-DESCRIPTION:
-LAST-MODIFIED:20181005T211001Z
-LOCATION:
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:Warmachine (öffentlich/blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -1898,19 +1995,6 @@ SUMMARY:D&D 5 (intern / blauer Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20181114T173000Z
-DTEND:20181114T220000Z
-UID:38udpo890ufrbp4h7vujdoes2s@google.com
-CREATED:20180615T104014Z
-DESCRIPTION:
-LAST-MODIFIED:20180615T104103Z
-LOCATION:
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Spielen mit Teut (Öffentlich /blauer Raum)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180629T163000Z
 DTEND:20180629T200000Z
 UID:ifj5oddbfmsdlufah89stlr9bk@google.com
@@ -2426,35 +2510,6 @@ LOCATION:
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:WeltenSchmiede Sommerfest (öffentlich / alle Räume)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20181102T180000Z
-DTEND:20181104T210000Z
-UID:3hmo41qs2t68c8o31s3ehgfqki@google.com
-CREATED:20180410T153355Z
-DESCRIPTION:Am Allerheiligen-Wochenende wird gespielt!\nNicht nur in der We
- ltenSchmiede sondern Deutschland weit.\n\nAm ReRoll-Weekend dürft Ihr\, wie
-  der Name es vermuten lässt\, Würfelwürfe\, die Euch nicht gefallen (oder d
- ie Ihr nicht brauchen könnt) einfach neu würfeln. Ohne Diskussion. In jeder
-  Phase des Spiels. In jedem Spiel. Jeden einzelnen Würfelwurf\, egal\, was 
- ausgewürfelt werden soll. Den neu gewürfelten Wurf müsst Ihr dann aber akze
- ptieren. Jedes Mal\, wenn Ihr neu würfelt („re-rollt“) kostet Euch das alle
- rdings 50 Cent. Pro Würfel. Ihr dürft Euch Euer Schicksal also weitestgehen
- d erkaufen.\n\n„Im echten Leben kann man nicht neuwürfeln!“. Eine bittere u
- nd unabänderliche Wahrheit. Kann man nicht. Man kann aber helfen.\nUnd gena
- u deswegen gibt es das Tabletop-Network-ReRoll-Weekend: Wir helfen.\nDas ge
- samte erwürfelte Geld wird gesammelt und im Namen des Tabletop-Network dem 
- „Weisser Ring e.V.“ gespendet und kommt somit unmittelbar Kriminalitätsopfe
- rn zugute.\n\nBei uns könnt ihr von Freitagabend bis Sonntagabend spielen.\
- n\n\nNicht vergessen: Jede einzelne Teilnahme\, jedes einzelne Spiel\, jede
- r einzelne neu gewürfelte Wurf zählt.\n\nNatürlich ist der Eintritt kostenl
- os.
-LAST-MODIFIED:20180410T153355Z
-LOCATION:Irrlicht e.V.\, Karl-Kunger-Straße 4\, 12435 Berlin\, Deutschland
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Tabletop-Network ReRoll-Weekend (alle Räume/ öffentlich)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
