@@ -1,5 +1,6 @@
 #!/bin/sh
 set -eu
+exec <&-
 readonly url='https://calendar.google.com/calendar/ical/irrlicht.verein%40gmail.com/public/basic.ics'
 #readonly ics=basic.ics
 readonly message='Regular calendar back-up'
