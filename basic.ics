@@ -44,6 +44,32 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20201215T170000Z
+DTEND:20201215T220000Z
+UID:5pd0kll7410pemr58thvd40fs3@google.com
+CREATED:20201029T221917Z
+DESCRIPTION:
+LAST-MODIFIED:20201029T221917Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cthulhu Endgame Phase 2 (intern/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201202T170000Z
+DTEND:20201202T220000Z
+UID:6kiie6vl4rnaa0rpjqn3cacbum@google.com
+CREATED:20201029T221836Z
+DESCRIPTION:
+LAST-MODIFIED:20201029T221836Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Cthulhu Endgame Phase 2 (intern/blauer Raum)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201031T160000Z
 DTEND:20201031T220000Z
 UID:0rp2j3soqvlqrvk23jnqsd6n6g@google.com
@@ -80,35 +106,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Cthulhu Endgame Phase 2 (intern/blauer Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20201106T150000Z
-DTEND:20201108T220000Z
-UID:5mqi2l4johq5gjtl08pvbgau1n@google.com
-CREATED:20191229T215730Z
-DESCRIPTION:Am Allerheiligen-Wochenende wird gespielt!\nNicht nur in der We
- ltenSchmiede sondern Deutschland weit.\n\nAm ReRoll-Weekend dürft Ihr\, wie
-  der Name es vermuten lässt\, Würfelwürfe\, die Euch nicht gefallen (oder d
- ie Ihr nicht brauchen könnt) einfach neu würfeln. Ohne Diskussion. In jeder
-  Phase des Spiels. In jedem Spiel. Jeden einzelnen Würfelwurf\, egal\, was 
- ausgewürfelt werden soll. Den neu gewürfelten Wurf müsst Ihr dann aber akze
- ptieren. Jedes Mal\, wenn Ihr neu würfelt („re-rollt“) kostet Euch das alle
- rdings 50 Cent. Pro Würfel. Ihr dürft Euch Euer Schicksal also weitestgehen
- d erkaufen.\n\n„Im echten Leben kann man nicht neuwürfeln!“. Eine bittere u
- nd unabänderliche Wahrheit. Kann man nicht. Man kann aber helfen.\nUnd gena
- u deswegen gibt es das Tabletop-Network-ReRoll-Weekend: Wir helfen.\nDas ge
- samte erwürfelte Geld wird gesammelt und im Namen des Tabletop-Network dem 
- „Weisser Ring e.V.“ gespendet und kommt somit unmittelbar Kriminalitätsopfe
- rn zugute.\n\nBei uns könnt ihr von Freitagabend bis Sonntagabend spielen.\
- n\n\nNicht vergessen: Jede einzelne Teilnahme\, jedes einzelne Spiel\, jede
- r einzelne neu gewürfelte Wurf zählt.\n\nNatürlich ist der Eintritt kostenl
- os.
-LAST-MODIFIED:20201016T131332Z
-LOCATION:Irrlicht e.V.\, Karl-Kunger-Straße 4\, 12435 Berlin\, Deutschland
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:Tabletop-Network ReRoll-Weekend (alle Räume)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -532,22 +529,13 @@ SUMMARY:Doppelkopf (intern / grüner Raum)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20201107T130000Z
-DTEND:20201107T220000Z
-UID:2off41tn3fo06llig3s653np9v@google.com
-CREATED:20200930T093354Z
-DESCRIPTION:
-LAST-MODIFIED:20201006T204038Z
-LOCATION:
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Pegasus Spiele-Clubtage (öffentlich/alle Räume)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20201016T160000
 DTEND;TZID=Europe/Berlin:20201016T230000
 RRULE:FREQ=WEEKLY;WKST=MO;BYDAY=FR
+EXDATE;TZID=Europe/Berlin:20201127T160000
+EXDATE;TZID=Europe/Berlin:20201120T160000
+EXDATE;TZID=Europe/Berlin:20201113T160000
+EXDATE;TZID=Europe/Berlin:20201106T160000
 UID:rjtnuk89vdg7til35kq0ivhf7o_R20201016T140000@google.com
 CREATED:20170116T185758Z
 DESCRIPTION:
@@ -5444,6 +5432,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20170708T140000
 DTEND;TZID=Europe/Berlin:20170708T235900
 RRULE:FREQ=MONTHLY;BYDAY=2SA
+EXDATE;TZID=Europe/Berlin:20201114T140000
 EXDATE;TZID=Europe/Berlin:20210911T140000
 EXDATE;TZID=Europe/Berlin:20200711T140000
 EXDATE;TZID=Europe/Berlin:20200613T140000
