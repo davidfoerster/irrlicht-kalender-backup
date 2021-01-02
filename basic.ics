@@ -44,6 +44,101 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART:20211231T160000Z
+DTEND:20211231T223000Z
+UID:33a12sisnhona0lnlgkc4g0k9e@google.com
+CREATED:20210102T131321Z
+DESCRIPTION:
+LAST-MODIFIED:20210102T131321Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Silvester in der WeltenSchmiede (intern/alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211105T150000Z
+DTEND:20211107T220000Z
+UID:4k30pru6rdpusk2300d7cjrqq4@google.com
+CREATED:20210102T131234Z
+DESCRIPTION:Am Allerheiligen-Wochenende wird gespielt!\nNicht nur in der We
+ ltenSchmiede sondern Deutschland weit.\n\nAm ReRoll-Weekend dürft Ihr\, wie
+  der Name es vermuten lässt\, Würfelwürfe\, die Euch nicht gefallen (oder d
+ ie Ihr nicht brauchen könnt) einfach neu würfeln. Ohne Diskussion. In jeder
+  Phase des Spiels. In jedem Spiel. Jeden einzelnen Würfelwurf\, egal\, was 
+ ausgewürfelt werden soll. Den neu gewürfelten Wurf müsst Ihr dann aber akze
+ ptieren. Jedes Mal\, wenn Ihr neu würfelt („re-rollt“) kostet Euch das alle
+ rdings 50 Cent. Pro Würfel. Ihr dürft Euch Euer Schicksal also weitestgehen
+ d erkaufen.\n\n„Im echten Leben kann man nicht neuwürfeln!“. Eine bittere u
+ nd unabänderliche Wahrheit. Kann man nicht. Man kann aber helfen.\nUnd gena
+ u deswegen gibt es das Tabletop-Network-ReRoll-Weekend: Wir helfen.\nDas ge
+ samte erwürfelte Geld wird gesammelt und im Namen des Tabletop-Network dem 
+ „Weisser Ring e.V.“ gespendet und kommt somit unmittelbar Kriminalitätsopfe
+ rn zugute.\n\nBei uns könnt ihr von Freitagabend bis Sonntagabend spielen.\
+ n\n\nNicht vergessen: Jede einzelne Teilnahme\, jedes einzelne Spiel\, jede
+ r einzelne neu gewürfelte Wurf zählt.\n\nNatürlich ist der Eintritt kostenl
+ os.
+LAST-MODIFIED:20210102T131234Z
+LOCATION:Irrlicht e.V.\, Karl-Kunger-Straße 4\, 12435 Berlin\, Deutschland
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tabletop-Network ReRoll-Weekend (alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210911T120000Z
+DTEND:20210911T215900Z
+UID:5bheaemol44uagh9qphnt64a7q@google.com
+CREATED:20210102T131141Z
+DESCRIPTION:Tag des Gesellschaftsspiels
+LAST-MODIFIED:20210102T131141Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stadt-Land-Spielt! in der WeltenSchmiede (öffentlich / alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210821T120000Z
+DTEND:20210821T213000Z
+UID:1ef48lucvg5jlcluhcpij2bmra@google.com
+CREATED:20210102T131111Z
+DESCRIPTION:Das Kiezfest\, wo wir vor und hinter der WeltenSchmiede spielen
+  werden
+LAST-MODIFIED:20210102T131111Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Treptower Baumscheibenfest (öffentlich/alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210814T120000Z
+DTEND:20210814T215900Z
+UID:5lk445tj58vn36acli6m204mik@google.com
+CREATED:20210102T131028Z
+DESCRIPTION:Unser Sommerfest!
+LAST-MODIFIED:20210102T131028Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:WeltenSchmiede Sommerfest (öffentlich / alle Räume)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210327
+DTEND;VALUE=DATE:20210328
+UID:6grqlivefpsvvtk9q3cuf0n37s@google.com
+CREATED:20210102T130848Z
+DESCRIPTION:
+LAST-MODIFIED:20210102T130913Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Gratisrollenspieltag 2021 (online)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20201101T110000Z
 DTEND:20201101T223000Z
 UID:35gl2v9ib68ddsgbrsmgene4ke@google.com
@@ -532,6 +627,11 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20201016T160000
 DTEND;TZID=Europe/Berlin:20201016T230000
 RRULE:FREQ=WEEKLY;WKST=MO;BYDAY=FR
+EXDATE;TZID=Europe/Berlin:20211231T160000
+EXDATE;TZID=Europe/Berlin:20210129T160000
+EXDATE;TZID=Europe/Berlin:20210122T160000
+EXDATE;TZID=Europe/Berlin:20210115T160000
+EXDATE;TZID=Europe/Berlin:20210108T160000
 EXDATE;TZID=Europe/Berlin:20210101T160000
 EXDATE;TZID=Europe/Berlin:20201225T160000
 EXDATE;TZID=Europe/Berlin:20201218T160000
@@ -812,19 +912,6 @@ LOCATION:
 SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Gloomhaven (intern / roter Raum)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20210911T120000Z
-DTEND:20210911T213000Z
-UID:vtvce3mg3886jfslu3cc9p1dbk@google.com
-CREATED:20200917T124100Z
-DESCRIPTION:
-LAST-MODIFIED:20200917T124100Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Stadt-Land-Spielt (öffentlich/ alle Räume)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -5438,6 +5525,8 @@ BEGIN:VEVENT
 DTSTART;TZID=Europe/Berlin:20170708T140000
 DTEND;TZID=Europe/Berlin:20170708T235900
 RRULE:FREQ=MONTHLY;BYDAY=2SA
+EXDATE;TZID=Europe/Berlin:20210814T140000
+EXDATE;TZID=Europe/Berlin:20210109T140000
 EXDATE;TZID=Europe/Berlin:20201212T140000
 EXDATE;TZID=Europe/Berlin:20201114T140000
 EXDATE;TZID=Europe/Berlin:20210911T140000
