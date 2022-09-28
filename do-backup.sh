@@ -2,7 +2,7 @@
 set -eu
 exec <&-
 declare -A options=(
-	[url]='https://export.kalender.digital/ics/0/3424d079381829d65253/irrlichtev.ics'
+	[url]='https://export.kalender.digital/ics/0/3424d079381829d65253/irrlichtev.ics?past_months=12&future_months=36'
 	#[output]=basic.ics
 	[commit]=0 [push]=0 [keep-intermediate]=0
 )
