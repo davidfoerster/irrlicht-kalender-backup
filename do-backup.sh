@@ -18,12 +18,25 @@ if [ -z "${ics-}" ]; then
 	readonly ics
 fi
 
+cleanup()
+{
+	rm -f -- "$ics_tmp"
+}
 
-if curl -sS -z "$ics" -o "$ics" -- "$url" && [ -s "$ics" ]; then
-	sed -i -e '/^DTSTAMP:/d' -- "$ics"
-	if ! git diff --quiet HEAD -- "$ics"; then
-		git commit "$@" -om "$message" -- "$ics"
-		exec git push -q
+do_exec()
+{
+	cleanup
+	trap - EXIT
+	exec "$@"
+}
+
+ics_tmp="$(tempfile -s.ics)"
+trap cleanup EXIT
+
+if curl -sS -z "$ics" -o "$ics_tmp" -- "$url" && [ -s "$ics_tmp" ]; then
+	grep -ve '^DTSTAMP:' < "$ics_tmp" > "$ics"
+	if git commit "$@" -qom "$message" -- "$ics"; then
+		do_exec git push -q
 	fi
 else
 	git checkout -q -- "$ics"
