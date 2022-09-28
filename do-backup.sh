@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 exec <&-
-readonly url='https://calendar.google.com/calendar/ical/irrlicht.verein%40gmail.com/public/basic.ics'
+readonly url='https://export.kalender.digital/ics/0/3424d079381829d65253/irrlichtev.ics'
 #readonly ics=basic.ics
 readonly message='Regular calendar back-up'
 readonly author='Irrlicht e. V. <post@irrlicht-verein.de>'
@@ -35,7 +35,7 @@ trap cleanup EXIT
 
 if curl -sS -z "$ics" -o "$ics_tmp" -- "$url" && [ -s "$ics_tmp" ]; then
 	grep -ve '^DTSTAMP:' < "$ics_tmp" > "$ics"
-	if git commit "$@" -qom "$message" -- "$ics"; then
+	if git add -- "$ics" && git commit "$@" -qom "$message" -- "$ics"; then
 		do_exec git push -q
 	fi
 else
