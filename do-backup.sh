@@ -1,28 +1,19 @@
 #!/bin/bash
 set -eu
-exec <&-
-declare -A options=(
-	[url]='https://export.kalender.digital/ics/0/3424d079381829d65253/irrlichtev.ics?past_months=12&future_months=36'
-	#[output]=basic.ics
-	[commit]=0 [push]=0 [keep-intermediate]=0
-)
-declare -A commit_options=(
-	[message]='Regular calendar back-up'
-	[author]='Irrlicht e. V. <post@irrlicht-verein.de>'
-)
-declare -a commit_arguments=(
-	--quiet --only --no-allow-empty --no-edit --no-gpg-sign
-)
+declare -A commit_options=() options=([commit]=0 [push]=0 [keep-intermediate]=0)
+declare -a commit_arguments=(--quiet --no-allow-empty --no-edit --no-gpg-sign)
 
-PROGNAME="${0##*/}"
-PROGNAME="${PROGNAME%.sh}"
-args="$(getopt -s bash -n "$PROGNAME" \
-	-o 'u:A:m:o:cp' \
-	-l 'url:,author:,message:,output:,commit,push,keep-intermediary' -- \
-	"$@")"
-eval set -- "$args"
-unset args
+progname="${0##*/}"
+progname="${progname%.sh}"
+case "$0" in
+	*/*) exedir="${0%/*}";;
+	*)   exedir=.;;
+esac
 
+getopt_short='C:u:A:m:o:cp'
+getopt_long='config:,url:,author:,message:,output:,commit,push,keep-intermediary'
+args="$(getopt -s bash -n "$progname" -o "$getopt_short" -l "$getopt_long" -- "$@")"
+eval "args=($args)"
 
 cleanup()
 {
@@ -38,38 +29,96 @@ do_exec()
 	exec "$@"
 }
 
-invalid_argument()
-{
-	printf '%s: Unknown or invalid option: "%s"\n' "$PROGNAME" "$1" >&2
-}
-
-
-while [ "$#" -ne 0 ]; do
+set -- "${args[@]}"
+declare -a config_files=()
+while : ; do
+	case "${1-}" in
+		-C|--config)
+			config_files+=("$2");;
+		--)
+			shift; break;;
+		-?)
+			;;
+		*)
+			break;;
+	esac
 	case "$1" in
+		--?*)
+			case "$getopt_long" in
+				"${1:2}:"*|*",${1:2}:"*) shift 2;;
+				*) shift 1;;
+			esac;;
+		-?)
+			case "$getopt_short" in
+				*"${1:1}:"*) shift 2;;
+				*) shift 1;;
+			esac;;
+	esac
+done
+
+if [ "$#" -ne 0 ]; then
+	exec >&2
+	printf '%s: Unrecognised argument(s):' "$progname"
+	printf ' "%s"' "$@"
+	echo
+	exit 64
+fi
+
+SOURCEPATH=.
+case "$exedir" in
+	.|*:*) ;;
+	*) [ "$exedir" -ef . ] || SOURCEPATH+=":$exedir";;
+esac
+if [ "${#config_files[@]}" -eq 0 ]; then
+	config_files=('default.cfg')
+fi
+for f in "${config_files[@]}"; do
+	case "$f" in
+		-)  source /dev/stdin;;
+		?*) PATH="$SOURCEPATH" source "$f";;
+	esac
+done
+
+exec <&-
+set -- "${args[@]}"
+while : ; do
+	case "${1-}" in
 		-u|--url)
-			options[url]="$2"; shift;;
+			options[url]="$2";;
 		-A|--author)
-			commit_options[author]="$2"; shift;;
+			commit_options[author]="$2";;
 		-m|--message)
-			commit_options[message]="$2"; shift;;
+			commit_options[message]="$2";;
 		-o|--output)
-			options[output]="$2"; shift;;
+			options[output]="$2";;
 		-c|--commit)
 			options[commit]=1;;
 		-p|--push)
 			options[push]=1 options[commit]=1;;
 		--keep-intermediary)
 			options[keep-intermediary]=1;;
+		-C|--config)
+			;;
 		--)
 			shift; break;;
-		--*)
-			invalid_argument "${1%%=*}"; exit 64;;
-		-?*)
-			invalid_argument "${1:0:2}"; exit 64;;
+		-?|--*)
+			printf '%s: Unknown or invalid option: "%s"\n' "$progname" "${1%%=*}" >&2
+			exit 64;;
 		*)
 			break;;
 	esac
-	shift
+	case "$1" in
+		--?*)
+			case "$getopt_long" in
+				"${1:2}:"*|*",${1:2}:"*) shift 2;;
+				*) shift 1;;
+			esac;;
+		-?)
+			case "$getopt_short" in
+				*"${1:1}:"*) shift 2;;
+				*) shift 1;;
+			esac;;
+	esac
 done
 
 if [ -z "${options[output]-}" ]; then
@@ -81,10 +130,6 @@ for k in "${!commit_options[@]}"; do
 	commit_arguments+=("--$k=${commit_options["$k"]}")
 done
 
-case "$0" in
-	*/*) cd -- "${0%/*}";;
-esac
-
 ics_tmp="$(mktemp --tmpdir --suffix=.ics kalender-backup-XXXXXXXXXX)"
 trap cleanup EXIT
 
@@ -95,7 +140,7 @@ if
 then
 	if [ "${options[commit]-0}" -ne 0 ]; then
 		git add -- "${options[output]}"
-		git commit "${commit_arguments[@]}" -- "${options[output]}"
+		git commit --only "${commit_arguments[@]}" -- "${options[output]}"
 		if [ "${options[push]-0}" -ne 0 ]; then
 			do_exec git push --quiet
 		fi
