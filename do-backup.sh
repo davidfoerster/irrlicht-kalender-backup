@@ -25,6 +25,7 @@ cleanup()
 
 do_exec()
 {
+	[ "$#" -ne 0 ] || return 64
 	cleanup
 	trap - EXIT
 	exec "$@"
@@ -38,7 +39,7 @@ while : ; do
 			config_files+=("$2");;
 		--)
 			shift; break;;
-		-?)
+		-?*)
 			;;
 		*)
 			break;;
