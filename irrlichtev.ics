@@ -10,7 +10,7 @@ TRANSP:OPAQUE
 DTEND:20211105T230000Z
 SUMMARY:Friday is Highday! 2G
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Roter Raum\,Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Roter Raum\,Intern\,Grüner Raum
 CREATED:20211112T200342Z
 LAST-MODIFIED:20211123T204036Z
 END:VEVENT
@@ -33,7 +33,7 @@ TRANSP:OPAQUE
 DTEND:20211112T230000Z
 SUMMARY:Bureaucracy
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211112T195420Z
 END:VEVENT
 BEGIN:VEVENT
@@ -44,7 +44,7 @@ TRANSP:OPAQUE
 DTEND:20211113T230000Z
 SUMMARY:Weltenschmiede Spieletag
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Blauer Raum\,Roter Raum\,Grüner Raum
 CREATED:20211112T200402Z
 LAST-MODIFIED:20211112T204719Z
 END:VEVENT
@@ -56,7 +56,7 @@ TRANSP:OPAQUE
 DTEND:20211115T230000Z
 SUMMARY:Monday Funday 2G
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Blauer Raum
 CREATED:20211112T195753Z
 LAST-MODIFIED:20211114T084432Z
 END:VEVENT
@@ -104,7 +104,7 @@ TRANSP:OPAQUE
 DTEND:20211119T230000Z
 SUMMARY:Friday is Highday! 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T200257Z
 LAST-MODIFIED:20211114T084855Z
 END:VEVENT
@@ -128,7 +128,7 @@ TRANSP:OPAQUE
 DTEND:20211123T230000Z
 SUMMARY:Dienstags Dungeon 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T195915Z
 LAST-MODIFIED:20211114T084654Z
 END:VEVENT
@@ -140,7 +140,7 @@ TRANSP:OPAQUE
 DTEND:20211125T193000Z
 SUMMARY:DSA3 Alcazaba 2G+
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211112T201034Z
 LAST-MODIFIED:20211123T202813Z
 END:VEVENT
@@ -175,7 +175,7 @@ TRANSP:OPAQUE
 DTEND:20211129T230000Z
 SUMMARY:Monday Funday 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T195753Z
 LAST-MODIFIED:20211228T102352Z
 END:VEVENT
@@ -199,7 +199,7 @@ TRANSP:OPAQUE
 DTEND:20211202T225900Z
 SUMMARY:DienstagsDungeon 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20211123T203845Z
 END:VEVENT
 BEGIN:VEVENT
@@ -222,7 +222,7 @@ TRANSP:OPAQUE
 DTEND:20211202T220000Z
 SUMMARY:Shadowrun Boston 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T200145Z
 LAST-MODIFIED:20211114T084756Z
 END:VEVENT
@@ -234,7 +234,7 @@ TRANSP:OPAQUE
 DTEND:20211203T230000Z
 SUMMARY:Friday is Highday! 2G
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Roter Raum\,Grüner Raum\,Intern
+CATEGORIES:Grüner Raum\,Blauer Raum\,Intern\,Roter Raum
 CREATED:20211112T200342Z
 LAST-MODIFIED:20211123T204036Z
 END:VEVENT
@@ -258,7 +258,7 @@ TRANSP:OPAQUE
 DTEND:20211207T230000Z
 SUMMARY:Dienstags Dungeon 2G
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211112T195915Z
 LAST-MODIFIED:20211114T084654Z
 END:VEVENT
@@ -270,7 +270,7 @@ TRANSP:OPAQUE
 DTEND:20211209T220000Z
 SUMMARY:Ad Ragnarök 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T200652Z
 LAST-MODIFIED:20211114T085028Z
 END:VEVENT
@@ -282,7 +282,7 @@ TRANSP:OPAQUE
 DTEND:20211211T230000Z
 SUMMARY:Weltenschmiede Spieletag 2G
 CLASS:PUBLIC
-CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
+CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20211112T200402Z
 LAST-MODIFIED:20211114T085249Z
 END:VEVENT
@@ -318,7 +318,7 @@ TRANSP:OPAQUE
 DTEND:20211215T210000Z
 SUMMARY:Splittermond 2G
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211112T200027Z
 LAST-MODIFIED:20211114T084719Z
 END:VEVENT
@@ -342,7 +342,7 @@ TRANSP:OPAQUE
 DTEND:20211216T220000Z
 SUMMARY:Shadowrun Boston 2G
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211112T200145Z
 LAST-MODIFIED:20211114T084756Z
 END:VEVENT
@@ -366,7 +366,7 @@ TRANSP:OPAQUE
 DTEND:20211220T230000Z
 SUMMARY:Monday Funday 2G
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211112T195753Z
 LAST-MODIFIED:20211228T102353Z
 END:VEVENT
@@ -402,7 +402,7 @@ TRANSP:OPAQUE
 DTEND:20211229T225900Z
 SUMMARY:Splittermond 2G+ (2G+/intern/blauerRaum)
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20211123T205422Z
 LAST-MODIFIED:20211228T213028Z
 END:VEVENT
@@ -414,7 +414,7 @@ TRANSP:OPAQUE
 DTEND:20211229T220000Z
 SUMMARY:Brettspieletreff (2G+/intern/roter Raum/6 Personen)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20211228T223900Z
 LAST-MODIFIED:20211229T132951Z
 END:VEVENT
@@ -444,7 +444,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Öffentlich
 CREATED:20211230T101513Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -456,7 +456,7 @@ TRANSP:OPAQUE
 DTEND:20220108T225900Z
 SUMMARY:WeltenSchmiede Spieletag (2G / intern / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Intern
+CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum\,Intern
 CREATED:20211112T204809Z
 LAST-MODIFIED:20211228T213448Z
 END:VEVENT
@@ -473,7 +473,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
+CATEGORIES:Blauer Raum\,Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -485,7 +485,7 @@ TRANSP:OPAQUE
 DTEND:20220113T213000Z
 SUMMARY:Chuthulu: Death may die (2G+/intern/blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220113T142655Z
 LAST-MODIFIED:20220114T100150Z
 END:VEVENT
@@ -502,7 +502,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Blauer Raum\,Grüner Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -516,7 +516,7 @@ SUMMARY:Bureaucracy
 ATTENDEE:Intern/2G++/blauer Raum
 CLASS:PUBLIC
 DESCRIPTION:Der Vorstand tagt (5-7 Personen)
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211231T084116Z
 LAST-MODIFIED:20220119T131900Z
 END:VEVENT
@@ -528,7 +528,7 @@ TRANSP:OPAQUE
 DTEND:20220121T210000Z
 SUMMARY:Tabletop - Warmachine (intern / 2G+ / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211230T035444Z
 END:VEVENT
 BEGIN:VEVENT
@@ -545,7 +545,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Öffentlich
 CREATED:20211230T101513Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -562,7 +562,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -574,7 +574,7 @@ TRANSP:OPAQUE
 DTEND:20220128T210000Z
 SUMMARY:Tabletop - Warmachine (intern / 2G+ / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211230T035454Z
 END:VEVENT
 BEGIN:VEVENT
@@ -586,7 +586,7 @@ DTEND:20220128T225500Z
 SUMMARY:Inoffizieller Highday (intern / 2g+)
 ATTENDEE:Veranstalter: Lars
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220124T224540Z
 END:VEVENT
 BEGIN:VEVENT
@@ -602,7 +602,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Grüner Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Blauer Raum\,Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -620,7 +620,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Öffentlich
 CREATED:20211230T101513Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -637,7 +637,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -649,7 +649,7 @@ TRANSP:OPAQUE
 DTEND:20220212T225900Z
 SUMMARY:WeltenSchmiede Spieletag (2G / intern / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum\,Grüner Raum\,Blauer Raum
+CATEGORIES:Intern\,Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20211228T213632Z
 END:VEVENT
@@ -666,7 +666,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Blauer Raum\,Roter Raum\,Grüner Raum
+CATEGORIES:Grüner Raum\,Blauer Raum\,Öffentlich\,Roter Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -678,7 +678,7 @@ TRANSP:OPAQUE
 DTEND:20220218T225900Z
 SUMMARY:Friday is Highday (3G / intern / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20211228T213659Z
 LAST-MODIFIED:20220228T094246Z
 END:VEVENT
@@ -696,7 +696,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Grüner Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Grüner Raum
 CREATED:20211230T101513Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -713,7 +713,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -748,7 +748,7 @@ DTEND:20220227T190000Z
 SUMMARY:Bureaucracy (intern/2G+/Blauer Raum)
 ATTENDEE:Alex
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220214T090603Z
 END:VEVENT
 BEGIN:VEVENT
@@ -764,7 +764,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
 CREATED:20211230T100639Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -811,7 +811,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Grüner Raum\,Blauer Raum\,Roter Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -824,7 +824,7 @@ DTEND:20220308T220000Z
 SUMMARY:DienstgsDungeon (intern / 2G+ / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220301T161244Z
 END:VEVENT
 BEGIN:VEVENT
@@ -835,7 +835,7 @@ TRANSP:OPAQUE
 DTEND:20220312T230000Z
 SUMMARY:WeltenSchmiede Spieletag (3G/öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220303T162830Z
 END:VEVENT
@@ -852,7 +852,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Grüner Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Blauer Raum\,Öffentlich\,Roter Raum\,Grüner Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -887,7 +887,7 @@ CLASS:PUBLIC
 DESCRIPTION:Der GRT 2022 endlich wieder bei uns in der WeltenSchmiede\, meh
  r zum GRT und die Anmeldung zu den einzelnen Gruppen\, gibt es unter dem L
  ink.
-CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20220215T132236Z
 LAST-MODIFIED:20220308T142159Z
 END:VEVENT
@@ -904,7 +904,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -933,7 +933,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum\,Blauer Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -946,7 +946,7 @@ DTEND:20220329T210000Z
 SUMMARY:DienstgsDungeon (intern / 2G+ / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220301T161244Z
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Öffentlich
 CREATED:20220227T123428Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -980,7 +980,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Öffentlich\,Grüner Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -993,7 +993,7 @@ DTEND:20220405T210000Z
 SUMMARY:DienstgsDungeon (intern / 2G+ / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220301T161244Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1005,7 +1005,7 @@ DTEND:20220406T210000Z
 SUMMARY:Brettspiele (2G+/ intern/ Blauer Raum (B))
 ATTENDEE:Jörg
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220308T141742Z
 LAST-MODIFIED:20220408T070851Z
 END:VEVENT
@@ -1018,7 +1018,7 @@ DTEND:20220408T200000Z
 SUMMARY:Bureaucracy (3G/intern/blauer Raum)
 CLASS:PUBLIC
 DESCRIPTION:Der Vorstand tagt
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220326T141616Z
 LAST-MODIFIED:20220326T141625Z
 END:VEVENT
@@ -1041,7 +1041,7 @@ TRANSP:OPAQUE
 DTEND:20220409T220000Z
 SUMMARY:WeltenSchmiede Spieletag (3G/öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220303T162830Z
 END:VEVENT
@@ -1058,7 +1058,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Blauer Raum\,Grüner Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1088,7 +1088,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Öffentlich
 CREATED:20220227T123428Z
 LAST-MODIFIED:20220413T150148Z
 END:VEVENT
@@ -1105,7 +1105,7 @@ CLASS:PUBLIC
 DESCRIPTION:Der neue Cousin unseres beliebten Freitags! Brettspiele\, Karte
  n- und Gesellschaftsspiele liegen im Fokus. Die beste Art in die Woche zu\
  nstarten ... denn ... Monday is Funday!
-CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220417T190615Z
 END:VEVENT
@@ -1131,7 +1131,7 @@ DTEND:20220419T210000Z
 SUMMARY:DienstagsDungeon (intern / 2G+ / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220301T161244Z
 LAST-MODIFIED:20220418T185452Z
 END:VEVENT
@@ -1161,7 +1161,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
+CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220225T194748Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1199,7 +1199,7 @@ DTEND:20220428T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220421T201649Z
 LAST-MODIFIED:20220620T110919Z
 END:VEVENT
@@ -1222,7 +1222,7 @@ DESCRIPTION:nach einer längeren Pause geht es weiter mit unserem viertelj
  für entspannten Austausch was die Entwicklung unserer Räume und unseres 
  Vereinslebens angeht. Für Verköstigung wird natürlich auch wieder gesor
  gt sein.
-CATEGORIES:Blauer Raum\,Roter Raum\,Intern
+CATEGORIES:Blauer Raum\,Intern\,Roter Raum
 CREATED:20220421T170359Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1250,7 +1250,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1291,7 +1291,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum
 CREATED:20220421T124229Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1310,7 +1310,7 @@ DESCRIPTION:Es ist Sonntagnachmittag\, Du bist gerade aufgewacht\, Du hast
   in die WeltenSchmiede zum Bastel-Café! Andere Irrlichter kennenlernen\, 
  Kaffee trinken\, quatschten\, Kuchen essen\, vielleicht Miniaturen bemalen
  \, Waffeln backen\, oder doch mal was kleines Spielen…
-CATEGORIES:Grüner Raum\,Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern\,Grüner Raum
 CREATED:20220430T101917Z
 LAST-MODIFIED:20220506T125527Z
 END:VEVENT
@@ -1327,7 +1327,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1339,7 +1339,7 @@ TRANSP:OPAQUE
 DTEND:20220511T203000Z
 SUMMARY:Bureaucracy (intern/blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220422T064813Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,7 +1351,7 @@ DTEND:20220513T213000Z
 SUMMARY:CLVIII DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B))
 ATTENDEE:Jörg
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220418T184730Z
 LAST-MODIFIED:20220512T070859Z
 END:VEVENT
@@ -1377,7 +1377,7 @@ TRANSP:OPAQUE
 DTEND:20220514T220000Z
 SUMMARY:WeltenSchmiede Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220418T162254Z
 END:VEVENT
@@ -1394,7 +1394,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Blauer Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Öffentlich
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1423,7 +1423,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220421T124229Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1451,7 +1451,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum\,Öffentlich
+CATEGORIES:Blauer Raum\,Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1464,7 +1464,7 @@ DTEND:20220524T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220418T184613Z
 LAST-MODIFIED:20220418T185433Z
 END:VEVENT
@@ -1547,7 +1547,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Roter Raum\,Blauer Raum\,Grüner Raum
+CATEGORIES:Öffentlich\,Blauer Raum\,Roter Raum\,Grüner Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1560,7 +1560,7 @@ DTEND:20220531T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220418T184613Z
 LAST-MODIFIED:20220418T185433Z
 END:VEVENT
@@ -1572,7 +1572,7 @@ TRANSP:OPAQUE
 DTEND:20220602T203000Z
 SUMMARY:SR5:Boston (intern/blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220428T182727Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1610,7 +1610,7 @@ TRANSP:OPAQUE
 DTEND:20220605T150000Z
 SUMMARY:Festkomitee 1. treffen
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern\,Grüner Raum
 CREATED:20220604T195017Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1622,7 +1622,7 @@ DTEND:20220606T170000Z
 SUMMARY:Feiertagsbrettspielen
 ATTENDEE:David & Julia
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Intern\,Blauer Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Intern
 CREATED:20220527T223716Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1638,7 +1638,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Blauer Raum\,Roter Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1678,7 +1678,7 @@ DTEND:20220609T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220421T201649Z
 LAST-MODIFIED:20220620T110919Z
 END:VEVENT
@@ -1690,7 +1690,7 @@ TRANSP:OPAQUE
 DTEND:20220611T220000Z
 SUMMARY:WeltenSchmiede Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220418T162254Z
 END:VEVENT
@@ -1720,7 +1720,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Blauer Raum\,Grüner Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1733,7 +1733,7 @@ DTEND:20220614T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220418T184613Z
 LAST-MODIFIED:20220418T185433Z
 END:VEVENT
@@ -1760,7 +1760,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Grüner Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20220421T124229Z
 LAST-MODIFIED:20220627T164724Z
 END:VEVENT
@@ -1786,7 +1786,7 @@ SUMMARY:Bureau of Desperation
 ATTENDEE:Julia + Jule + Chris
 CLASS:PUBLIC
 DESCRIPTION:Investigating  criiiiiiiimmmmes
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220614T083726Z
 LAST-MODIFIED:20220614T083745Z
 END:VEVENT
@@ -1815,7 +1815,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Roter Raum\,Öffentlich\,Grüner Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Öffentlich\,Grüner Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220622T212612Z
 END:VEVENT
@@ -1841,7 +1841,7 @@ DTEND:20220621T203000Z
 SUMMARY:Doppelkopf (öffentlich / Roter & Grüner Raum)
 ATTENDEE:Basti
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20220521T105222Z
 LAST-MODIFIED:20220521T141307Z
 END:VEVENT
@@ -1878,7 +1878,7 @@ DTEND:20220625T210000Z
 SUMMARY:Arkham Horror LCG (intern)
 ATTENDEE:Julia & Jule
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220621T214621Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1890,7 +1890,7 @@ DTEND:20220625T210000Z
 SUMMARY:CLXII DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B))
 ATTENDEE:Jörg
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220418T185427Z
 LAST-MODIFIED:20220626T222032Z
 END:VEVENT
@@ -1907,7 +1907,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Roter Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220421T113324Z
 LAST-MODIFIED:20220627T164536Z
 END:VEVENT
@@ -1920,7 +1920,7 @@ DTEND:20220628T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220418T184613Z
 LAST-MODIFIED:20220621T172511Z
 END:VEVENT
@@ -1947,7 +1947,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". Unsere Mitglieder treffe
  n sich und spielen Brettspiele. \nAn jedem ersten und dritten Freitag wird
   der Friday zum Highday. Die beste Art die Woche abzuschließen und ins Wo
  chenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220627T164724Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1959,7 +1959,7 @@ DTEND:20220702T210000Z
 SUMMARY:Dreamlands & Dinos (intern)
 ATTENDEE:Jule & Julia
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220701T224831Z
 LAST-MODIFIED:20220701T224844Z
 END:VEVENT
@@ -1971,7 +1971,7 @@ TRANSP:OPAQUE
 DTEND:20220703T115900Z
 SUMMARY:Festkomitee
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220627T203418Z
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,7 +1986,7 @@ DESCRIPTION:Wir laden die Mitglieder in die WeltenSchmiede zum Bastel-Café
  ! Andere Irrlichter kennenlernen\, Kaffee trinken\, quatschten\, Kuchen es
  sen\, vielleicht Miniaturen bemalen\, Waffeln backen\, oder doch mal was k
  leines Spielen…
-CATEGORIES:Grüner Raum\,Intern\,Roter Raum\,Blauer Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Intern\,Grüner Raum
 CREATED:20220627T203313Z
 LAST-MODIFIED:20220704T061015Z
 END:VEVENT
@@ -2003,7 +2003,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2027,7 +2027,7 @@ DTEND:20220705T203000Z
 SUMMARY:Doppelkopf (öffentlich/roter & grüner Raum)
 ATTENDEE:Alex
 CLASS:PUBLIC
-CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220623T072654Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2040,7 +2040,7 @@ SUMMARY:Bureaucracy (intern/blauer Raum)
 ATTENDEE:post@irrlicht...
 CLASS:PUBLIC
 DESCRIPTION:Der Vorstand tagt
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220621T142703Z
 LAST-MODIFIED:20220621T142721Z
 END:VEVENT
@@ -2076,7 +2076,7 @@ DTEND:20220708T210000Z
 SUMMARY:D&D Brettspiele (Intern)
 ATTENDEE:Julia
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220707T195153Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2087,7 +2087,7 @@ TRANSP:OPAQUE
 DTEND:20220709T220000Z
 SUMMARY:Pegasus Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220602T113241Z
 END:VEVENT
@@ -2100,7 +2100,7 @@ DTEND:20220710T210000Z
 SUMMARY:Card Games
 ATTENDEE:Julia & Jule
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220710T093913Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2116,7 +2116,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
+CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2172,7 +2172,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum\,Öffentlich
+CATEGORIES:Blauer Raum\,Grüner Raum\,Öffentlich\,Roter Raum
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2212,7 +2212,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2247,7 +2247,7 @@ TRANSP:OPAQUE
 DTEND:20220731T120000Z
 SUMMARY:Festkommitee treffen
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220727T193445Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2262,7 +2262,7 @@ DESCRIPTION:Wir laden die Mitglieder in die WeltenSchmiede zum Bastel-Café
  ! Andere Irrlichter kennenlernen\, Kaffee trinken\, quatschten\, Kuchen es
  sen\, vielleicht Miniaturen bemalen\, Waffeln backen\, oder doch mal was k
  leines Spielen…
-CATEGORIES:Intern\,Roter Raum\,Blauer Raum\,Grüner Raum
+CATEGORIES:Blauer Raum\,Grüner Raum\,Intern\,Roter Raum
 CREATED:20220704T060807Z
 LAST-MODIFIED:20220728T085524Z
 END:VEVENT
@@ -2279,7 +2279,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2308,7 +2308,7 @@ DESCRIPTION:Der Irrlicht-Verein lädt Rollenspieler ein um sich gegenseitig
   und den Verein näher kennen zu lernen\, neue Runden zu finden\, Chars zu
   erstellen  und über das Hobby zu quatschen. Auch für Mitglieder interes
  sant.
-CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
+CATEGORIES:Öffentlich\,Blauer Raum\,Grüner Raum\,Roter Raum
 CREATED:20220801T074257Z
 LAST-MODIFIED:20220801T185947Z
 END:VEVENT
@@ -2321,7 +2321,7 @@ DTEND:20220804T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220620T110919Z
 LAST-MODIFIED:20220828T113319Z
 END:VEVENT
@@ -2347,7 +2347,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\".\nAn jedem ersten und dri
  tten Freitag wird der Friday zum Highday. Die beste Art die Woche abzuschl
  ießen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Grüner Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20220801T122127Z
 LAST-MODIFIED:20220801T122511Z
 END:VEVENT
@@ -2374,7 +2374,7 @@ SUMMARY:Boardgames No-TI (intern)
 ATTENDEE:Julia & Chris
 CLASS:PUBLIC
 DESCRIPTION:wir spielen nicht TI\, aber andere Boardgames
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220802T161558Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2390,7 +2390,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Blauer Raum\,Roter Raum
+CATEGORIES:Blauer Raum\,Roter Raum\,Grüner Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2402,7 +2402,7 @@ DTEND:20220809T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220621T172511Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2413,7 +2413,7 @@ TRANSP:OPAQUE
 DTEND:20220813T220000Z
 SUMMARY:Sommerfest - 15 Jahre WeltenSchmiede (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Grüner Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220707T073259Z
 END:VEVENT
@@ -2430,7 +2430,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Blauer Raum\,Öffentlich\,Roter Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2442,7 +2442,7 @@ DTEND:20220816T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220621T172511Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2497,7 +2497,7 @@ SUMMARY:CLXIV DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B))
 ATTENDEE:Jörg
 CLASS:PUBLIC
 DESCRIPTION:Bluetooth Box\, Leinwand\, Luftfilter
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220622T133742Z
 LAST-MODIFIED:20220820T074559Z
 END:VEVENT
@@ -2514,7 +2514,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Öffentlich
 CREATED:20220627T164536Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2526,7 +2526,7 @@ DTEND:20220823T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 CLASS:PUBLIC
 DESCRIPTION:Spielleiter: hannes\;
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220621T172511Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2550,7 +2550,7 @@ DTEND:20220825T203000Z
 SUMMARY:SR5:Boston (intern/blauer Raum)
 ATTENDEE:Lars Gerdes\, David Foerster
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220828T113428Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2561,7 +2561,7 @@ TRANSP:OPAQUE
 DTEND:20220826T213000Z
 SUMMARY:Warmachine / Tableltop (öffentlich / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Öffentlich\,Blauer Raum
+CATEGORIES:Blauer Raum\,Öffentlich
 CREATED:20220629T133211Z
 LAST-MODIFIED:20220815T214107Z
 END:VEVENT
@@ -2601,7 +2601,7 @@ ATTENDEE:Steve/Robert
 CLASS:PUBLIC
 DESCRIPTION:Bitte vorher für Spiel anmelden und abstimmen. Nur Experten-Sp
  iele und kein Jammern hinterher!
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220816T174430Z
 LAST-MODIFIED:20220816T175403Z
 END:VEVENT
@@ -2638,7 +2638,7 @@ TRANSP:OPAQUE
 DTEND:20220828T160000Z
 SUMMARY:Bastel-Café
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Roter Raum\,Intern\,Blauer Raum
+CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Intern
 CREATED:20220722T054840Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2654,7 +2654,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Blauer Raum\,Roter Raum
+CATEGORIES:Blauer Raum\,Grüner Raum\,Öffentlich\,Roter Raum
 CREATED:20220627T164536Z
 LAST-MODIFIED:20220815T181400Z
 END:VEVENT
@@ -2667,7 +2667,7 @@ DTEND:20220830T210000Z
 SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
 ATTENDEE:hannes\;
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220621T172511Z
 LAST-MODIFIED:20220815T181901Z
 END:VEVENT
@@ -2680,7 +2680,7 @@ DTEND:20220901T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220828T113319Z
 LAST-MODIFIED:20220828T113354Z
 END:VEVENT
@@ -2695,7 +2695,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten und dr
  itten Freitag wird der Friday zum Highday. Die beste Art die Woche abzusch
  ließen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20220801T122236Z
 LAST-MODIFIED:20220815T182639Z
 END:VEVENT
@@ -2707,7 +2707,7 @@ TRANSP:OPAQUE
 DTEND:20220903T200000Z
 SUMMARY:Baumscheibenfest \n(öffentlich / alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Öffentlich\,Blauer Raum\,Grüner Raum\,Roter Raum
 CREATED:20220802T173406Z
 LAST-MODIFIED:20220815T181402Z
 END:VEVENT
@@ -2724,7 +2724,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Blauer Raum\,Grüner Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -2749,7 +2749,7 @@ DTEND:20220906T203000Z
 SUMMARY:SR5:Boston (intern/blauer Raum)
 ATTENDEE:Lars Gerdes\, David Foerster
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220828T113428Z
 LAST-MODIFIED:20220903T222725Z
 END:VEVENT
@@ -2786,7 +2786,7 @@ DTEND:20220909T210000Z
 SUMMARY:Murder at the Exelsior Hotel
 ATTENDEE:Julia\, Jule\, Chris
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220906T082430Z
 LAST-MODIFIED:20220906T082441Z
 END:VEVENT
@@ -2798,7 +2798,7 @@ TRANSP:OPAQUE
 DTEND:20220910T220000Z
 SUMMARY:Stadt Land Spielt \n(öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220906T002131Z
 END:VEVENT
@@ -2829,7 +2829,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum\,Blauer Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich\,Blauer Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -2843,7 +2843,7 @@ SUMMARY:MIDGARD - Jandrics 100. Geburtstag (2G+/ intern / blauer Raum (F))
 ATTENDEE:Sven
 CLASS:PUBLIC
 DESCRIPTION:Teil 1 des  one-shot der alten Midgard-Gruppe\, ab 17 Uhr
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220815T182417Z
 LAST-MODIFIED:20220913T161505Z
 END:VEVENT
@@ -2869,7 +2869,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten und dr
  itten Freitag wird der Friday zum Highday. Die beste Art die Woche abzusch
  ließen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20220801T122637Z
 LAST-MODIFIED:20220815T182703Z
 END:VEVENT
@@ -2882,7 +2882,7 @@ DTEND:20220917T210000Z
 SUMMARY:🦕 Dinos & Cultists 🐙
 ATTENDEE:Julia\, Jule\, Chris
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Intern
+CATEGORIES:Intern\,Grüner Raum
 CREATED:20220913T200408Z
 LAST-MODIFIED:20220913T200458Z
 END:VEVENT
@@ -2912,7 +2912,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Blauer Raum\,Öffentlich\,Roter Raum\,Grüner Raum
+CATEGORIES:Blauer Raum\,Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -2952,7 +2952,7 @@ DTEND:20220922T213000Z
 SUMMARY:DnD Homebrew
 ATTENDEE:Steve
 CLASS:PUBLIC
-CATEGORIES:Intern\,Roter Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220909T113415Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2966,7 +2966,7 @@ ATTENDEE:Steve/Robert
 CLASS:PUBLIC
 DESCRIPTION:Bitte vorher für Spiel anmelden und abstimmen. Nur Experten-Sp
  iele und kein Jammern hinterher!
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220816T174430Z
 LAST-MODIFIED:20220816T175403Z
 END:VEVENT
@@ -2980,7 +2980,7 @@ SUMMARY:CLXVI DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B+L+F))
 ATTENDEE:Jörg
 CLASS:PUBLIC
 DESCRIPTION:Bluetooth Box\, Leinwand\, Luftfilter
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Intern\,Blauer Raum
 CREATED:20220815T182927Z
 END:VEVENT
 BEGIN:VEVENT
@@ -2992,7 +2992,7 @@ DTEND:20220924T143000Z
 SUMMARY:Putzen DSA (2G+/ intern/ alle Räume)
 CLASS:PUBLIC
 DESCRIPTION:Putzen
-CATEGORIES:Blauer Raum\,Roter Raum\,Grüner Raum\,Intern
+CATEGORIES:Blauer Raum\,Intern\,Roter Raum\,Grüner Raum
 CREATED:20220904T114318Z
 LAST-MODIFIED:20220916T060328Z
 END:VEVENT
@@ -3009,7 +3009,7 @@ DESCRIPTION:Wir laden die Mitglieder in die WeltenSchmiede zum Bastel-Café
  ! Andere Irrlichter kennenlernen\, Kaffee trinken\, quatschten\, Kuchen es
  sen\, vielleicht Miniaturen bemalen\, Waffeln backen\, oder doch mal was k
  leines Spielen…
-CATEGORIES:Intern\,Blauer Raum\,Grüner Raum\,Roter Raum
+CATEGORIES:Intern\,Blauer Raum\,Roter Raum\,Grüner Raum
 CREATED:20220815T201056Z
 LAST-MODIFIED:20220815T201211Z
 END:VEVENT
@@ -3026,7 +3026,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Grüner Raum\,Blauer Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3052,22 +3052,9 @@ SUMMARY:MIDGARD - Jandrics 100. Geburtstag (intern / blauer Raum (F))
 ATTENDEE:Sven
 CLASS:PUBLIC
 DESCRIPTION:Teil 2 des one-shot der alten Midgard-Gruppe\, ab 17 Uhr
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220815T183240Z
 LAST-MODIFIED:20220913T161517Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG233491786
-DTSTART:20220929T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20220929T203000Z
-SUMMARY:Ad Ragnarök (intern/roter Raum)
-ATTENDEE:Florian Federl/ David Förster
-CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
-CREATED:20220828T113319Z
-LAST-MODIFIED:20220902T150923Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227817120
@@ -3077,8 +3064,21 @@ TRANSP:OPAQUE
 DTEND:20220930T210000Z
 SUMMARY:Warmachine / Tableltop (öffentlich / blauer Raum)
 CLASS:PUBLIC
-CATEGORIES:Öffentlich\,Blauer Raum
+CATEGORIES:Blauer Raum\,Öffentlich
 CREATED:20220815T214245Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG252260448
+DTSTART:20220930T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20220930T215900Z
+SUMMARY:Brettspielrunde
+ATTENDEE:Lukas und Co
+CLASS:PUBLIC
+CATEGORIES:Grüner Raum
+CREATED:20220929T085311Z
+LAST-MODIFIED:20220929T085341Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG251260612
@@ -3089,7 +3089,7 @@ DTEND:20220930T210000Z
 SUMMARY:Arkham Horrrrrrrorrrrrrrr
 CLASS:PUBLIC
 DESCRIPTION:LCG Dream-Eaters Campaign
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220927T125029Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3112,7 +3112,7 @@ TRANSP:OPAQUE
 DTEND:20221001T213000Z
 SUMMARY:Vampire die Marmelade
 CLASS:PUBLIC
-CATEGORIES:Roter Raum\,Intern
+CATEGORIES:Intern\,Roter Raum
 CREATED:20220920T093737Z
 LAST-MODIFIED:20220920T093929Z
 END:VEVENT
@@ -3125,8 +3125,32 @@ DTEND:20221002T210000Z
 SUMMARY:Sleeping Gods
 ATTENDEE:Julia\, Jule\, Malte\, Chris
 CLASS:PUBLIC
-CATEGORIES:Intern\,Grüner Raum
+CATEGORIES:Grüner Raum\,Intern
 CREATED:20220920T124659Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG254207872
+DTSTART:20221002T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20221002T173000Z
+SUMMARY:Maria- Stolz und Unbezwungen (Brettspielrunde)
+CLASS:PUBLIC
+CATEGORIES:Intern\,Roter Raum
+CREATED:20221003T110205Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG254205665
+DTSTART:20221003T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20221003T173000Z
+SUMMARY:Schwurbliger Cthutulhu (Brettspielrunde)
+CLASS:PUBLIC
+DESCRIPTION:Brettspielrunde
+CATEGORIES:Blauer Raum
+CREATED:20221003T104919Z
+LAST-MODIFIED:20221003T110318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227724673
@@ -3141,7 +3165,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum\,Blauer Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum\,Blauer Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3206,7 +3230,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten und dr
  itten Freitag wird der Friday zum Highday. Die beste Art die Woche abzusch
  ließen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich
+CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
 CREATED:20220815T181725Z
 LAST-MODIFIED:20220815T182729Z
 END:VEVENT
@@ -3218,7 +3242,7 @@ TRANSP:OPAQUE
 DTEND:20221008T220000Z
 SUMMARY:WeltenSchmiede Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum
+CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220418T162254Z
 END:VEVENT
@@ -3235,7 +3259,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Öffentlich\,Roter Raum\,Grüner Raum\,Blauer Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3253,16 +3277,16 @@ CREATED:20220815T181901Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG233491787
-DTSTART:20221013T173000Z
+DTSTART:20221011T173000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20221013T203000Z
+DTEND:20221011T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220828T113319Z
-LAST-MODIFIED:20220828T113354Z
+LAST-MODIFIED:20221006T210744Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227817122
@@ -3289,6 +3313,19 @@ CATEGORIES:Intern\,Roter Raum
 CREATED:20220815T183428Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG254197371
+DTSTART;VALUE=DATE:20221015
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20221016
+SUMMARY:Vampire \"Berliner Luft\"
+ATTENDEE:Steve
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Roter Raum\,Intern
+CREATED:20221003T101617Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG251787296
 DTSTART:20221016T120000Z
 SEQUENCE:0
@@ -3297,8 +3334,25 @@ DTEND:20221016T210000Z
 SUMMARY:Magic The Gathering - Commander
 ATTENDEE:Julia
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Roter Raum\,Öffentlich\,Grüner Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Öffentlich
 CREATED:20220928T111013Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG254762136
+DTSTART:20221017T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20221017T213000Z
+SUMMARY:RPG-Speed Dating
+ATTENDEE:Steve
+CLASS:PUBLIC
+DESCRIPTION:Auf der Suche nach 'ner RPG-Gruppe? Komm vorbei!\nDas RPG-Speed
+  Dating soll Neulingen und Veteranen gleichermaßen eine Möglichkeit gebe
+ n Gleichgesinnte kennenzulernen und sich zum spielen zu verabreden.\nWir f
+ reuen uns auf Euch!
+CATEGORIES:Roter Raum\,Öffentlich
+CREATED:20221004T125720Z
+LAST-MODIFIED:20221007T065212Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227724675
@@ -3313,7 +3367,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
+CATEGORIES:Roter Raum\,Öffentlich\,Blauer Raum\,Grüner Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3338,7 +3392,7 @@ DTEND:20221019T203000Z
 SUMMARY:Bureaucracy (intern / blauer Raum)
 CLASS:PUBLIC
 DESCRIPTION:Der Vorstand tagt.
-CATEGORIES:Intern\,Blauer Raum
+CATEGORIES:Blauer Raum\,Intern
 CREATED:20220921T083543Z
 END:VEVENT
 BEGIN:VEVENT
@@ -3364,7 +3418,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten und dr
  itten Freitag wird der Friday zum Highday. Die beste Art die Woche abzusch
  ließen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
+CATEGORIES:Öffentlich\,Grüner Raum\,Roter Raum
 CREATED:20220815T181725Z
 LAST-MODIFIED:20220815T182729Z
 END:VEVENT
@@ -3389,15 +3443,16 @@ DTSTART:20221023T120000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20221023T200000Z
-SUMMARY:Bastel-Café
+SUMMARY:☕️Bastel-Café✂️
 ATTENDEE:Julia\, Jule\, Tina\, Florian
 CLASS:PUBLIC
 DESCRIPTION:Wir laden die Mitglieder in die WeltenSchmiede zum Bastel-Café
  ! Andere Irrlichter kennenlernen\, Kaffee trinken\, quatschten\, Kuchen es
  sen\, vielleicht Miniaturen bemalen\, Waffeln backen\, oder doch mal was k
  leines Spielen…
-CATEGORIES:Grüner Raum\,Intern\,Blauer Raum\,Roter Raum
+CATEGORIES:Grüner Raum\,Blauer Raum\,Roter Raum\,Intern
 CREATED:20220815T201339Z
+LAST-MODIFIED:20220929T162651Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227724676
@@ -3412,7 +3467,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich\,Blauer Raum
+CATEGORIES:Grüner Raum\,Öffentlich\,Blauer Raum\,Roter Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3429,6 +3484,20 @@ CATEGORIES:Intern\,Blauer Raum
 CREATED:20220815T181901Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG252663363
+DTSTART:20221027T153000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20221027T210000Z
+SUMMARY:MIDGARD - Jandrics 100. Geburtstag (intern / blauer Raum (F))
+ATTENDEE:Sven
+CLASS:PUBLIC
+DESCRIPTION:Teil 3 des one-shot der alten Midgard-Gruppe\, ab 17:30 Uhr
+CATEGORIES:Intern\,Blauer Raum
+CREATED:20220929T205759Z
+LAST-MODIFIED:20221001T191504Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG233491788
 DTSTART:20221027T173000Z
 SEQUENCE:0
@@ -3437,9 +3506,9 @@ DTEND:20221027T203000Z
 SUMMARY:Ad Ragnarök (intern/roter Raum)
 ATTENDEE:Florian Federl/ David Förster
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Intern
+CATEGORIES:Roter Raum\,Intern
 CREATED:20220828T113319Z
-LAST-MODIFIED:20220828T113354Z
+LAST-MODIFIED:20221001T191647Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227817123
@@ -3465,21 +3534,6 @@ CATEGORIES:Intern\,Roter Raum
 CREATED:20220926T161644Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KDIG227729186
-DTSTART:20221029T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20221029T210000Z
-SUMMARY:CLXVIII DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B+L+F)
- )
-ATTENDEE:Jörg
-CLASS:PUBLIC
-DESCRIPTION:Bluetooth Box\, Leinwand\, Luftfilter
-CATEGORIES:Intern\,Blauer Raum
-CREATED:20220815T183612Z
-LAST-MODIFIED:20220815T184210Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG250762913
 DTSTART:20221030T130000Z
 SEQUENCE:0
@@ -3490,6 +3544,21 @@ ATTENDEE:Julia\, Jule
 CLASS:PUBLIC
 CATEGORIES:Intern\,Roter Raum
 CREATED:20220926T161657Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG227729186
+DTSTART:20221030T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20221030T220000Z
+SUMMARY:CLXVIII DSA \"Träume von Macht\" (2G+/ intern/ blauer Raum (B+L+F)
+ )
+ATTENDEE:Jörg
+CLASS:PUBLIC
+DESCRIPTION:Bluetooth Box\, Leinwand\, Luftfilter
+CATEGORIES:Intern\,Blauer Raum
+CREATED:20220815T183612Z
+LAST-MODIFIED:20221001T191832Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG227724677
@@ -3504,7 +3573,7 @@ CLASS:PUBLIC
 DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
  tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
   Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum\,Öffentlich
+CATEGORIES:Roter Raum\,Grüner Raum\,Öffentlich\,Blauer Raum
 CREATED:20220815T181400Z
 LAST-MODIFIED:20220815T182827Z
 END:VEVENT
@@ -3516,7 +3585,7 @@ TRANSP:OPAQUE
 DTEND:20221112T230000Z
 SUMMARY:WeltenSchmiede Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Blauer Raum\,Roter Raum\,Grüner Raum
+CATEGORIES:Roter Raum\,Blauer Raum\,Grüner Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220418T162254Z
 END:VEVENT
@@ -3531,7 +3600,7 @@ CLASS:PUBLIC
 DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten und dr
  itten Freitag wird der Friday zum Highday. Die beste Art die Woche abzusch
  ließen und ins Wochenende zu starten ... denn ... Friday is Highday!
-CATEGORIES:Roter Raum\,Öffentlich\,Grüner Raum
+CATEGORIES:Grüner Raum\,Roter Raum\,Öffentlich
 CREATED:20220801T122637Z
 LAST-MODIFIED:20220815T182703Z
 END:VEVENT
@@ -3543,7 +3612,7 @@ TRANSP:OPAQUE
 DTEND:20221210T230000Z
 SUMMARY:WeltenSchmiede Spieletag (öffentlich/alle Räume)
 CLASS:PUBLIC
-CATEGORIES:Grüner Raum\,Roter Raum\,Blauer Raum
+CATEGORIES:Blauer Raum\,Grüner Raum\,Roter Raum
 CREATED:20211112T204809Z
 LAST-MODIFIED:20220418T162254Z
 END:VEVENT
