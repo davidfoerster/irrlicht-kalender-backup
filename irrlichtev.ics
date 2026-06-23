@@ -3,23 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG324903280
-DTSTART:20250623T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250623T215900Z
-URL:https://www.irrlicht-verein.de/www-irrlicht-verein-de/veranstaltung/
-LOCATION:Irrlicht e.V. -Weltenschmiede
-SUMMARY:Monday is Funday (öffentlich / alle Räume)
-ATTENDEE:Mitglieder und Gäste
-CLASS:PUBLIC
-DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
- tspiele\, Karten- und Gesellschaftsspiele liegen im Fokus. \nÖffentlicher
-  Spieletreff - Kommt einfach vorbei!
-CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
-CREATED:20230203T101526Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG1137681351
 DTSTART:20250624T150000Z
 SEQUENCE:0
@@ -8689,19 +8672,6 @@ ATTENDEE:hannes\;
 CLASS:PUBLIC
 CATEGORIES:Intern,Blauer Raum
 CREATED:20260429T162545Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG2909619688
-DTSTART:20260623T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20260623T210000Z
-LOCATION:Weltenschmeide
-SUMMARY:Brettspiele
-ATTENDEE:Oytun
-CLASS:PUBLIC
-CATEGORIES:Intern,Grüner Raum
-CREATED:20260502T185257Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG2930705427
