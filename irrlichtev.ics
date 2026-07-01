@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG1173832109
-DTSTART:20250701T153000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250701T200000Z
-LOCATION:Weltenschmeide
-SUMMARY:Oytun’s Dungeon
-ATTENDEE:Oytun
-CLASS:PUBLIC
-CATEGORIES:Intern,Roter Raum
-CREATED:20250627T124854Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG1165993761
 DTSTART:20250702T160000Z
 SEQUENCE:0
@@ -8575,6 +8562,22 @@ CATEGORIES:Intern,Blauer Raum
 CREATED:20260502T184914Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225109
+DTSTART:20260629T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260629T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903333
 DTSTART:20260629T173000Z
 SEQUENCE:0
@@ -8602,6 +8605,7 @@ ATTENDEE:hannes\;
 CLASS:PUBLIC
 CATEGORIES:Intern,Blauer Raum
 CREATED:20260429T162545Z
+LAST-MODIFIED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG2909619691
@@ -8640,18 +8644,6 @@ CLASS:PUBLIC
 CATEGORIES:Intern,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T094911Z
 LAST-MODIFIED:20260629T203328Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG3371318063
-DTSTART:20260701T153000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20260701T193000Z
-SUMMARY:CCC-Call of Cthulhu Club
-ATTENDEE:Joni
-CLASS:PUBLIC
-CATEGORIES:Intern,Blauer Raum
-CREATED:20260626T093445Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3296718125
@@ -8711,6 +8703,35 @@ CATEGORIES:Intern,Blauer Raum
 CREATED:20260630T051624Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3417464170
+DTSTART:20260705T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260705T140000Z
+SUMMARY:Bureaucracy - Breakfast Edition
+ATTENDEE:Vorstand
+CLASS:PUBLIC
+CATEGORIES:Intern,Roter Raum
+CREATED:20260701T183351Z
+LAST-MODIFIED:20260701T205430Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225110
+DTSTART:20260706T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260706T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903334
 DTSTART:20260706T173000Z
 SEQUENCE:0
@@ -8726,6 +8747,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757936
+DTSTART:20260707T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260707T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3408966607
@@ -8753,6 +8786,18 @@ CATEGORIES:Intern,Blauer Raum
 CREATED:20260628T194207Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3416869011
+DTSTART:20260709T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260709T210000Z
+SUMMARY:Shadowrun Boston
+ATTENDEE:David
+CLASS:PUBLIC
+CATEGORIES:Intern,Roter Raum
+CREATED:20260701T165639Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909448
 DTSTART:20260711T120000Z
 SEQUENCE:0
@@ -8763,6 +8808,22 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225111
+DTSTART:20260713T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260713T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903335
@@ -8780,6 +8841,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757937
+DTSTART:20260714T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260714T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3397155254
@@ -8825,6 +8898,22 @@ CREATED:20260629T181325Z
 LAST-MODIFIED:20260629T181418Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225112
+DTSTART:20260720T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260720T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903336
 DTSTART:20260720T173000Z
 SEQUENCE:0
@@ -8840,6 +8929,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757938
+DTSTART:20260721T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260721T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3391995960
@@ -8866,6 +8967,22 @@ CATEGORIES:Intern,Blauer Raum
 CREATED:20260628T185931Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225113
+DTSTART:20260727T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260727T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903337
 DTSTART:20260727T173000Z
 SEQUENCE:0
@@ -8881,6 +8998,30 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757939
+DTSTART:20260728T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260728T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3413444430
+DTSTART:20260729T153000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260729T200000Z
+SUMMARY:D&Gang (intern)
+ATTENDEE:Tammy
+CLASS:PUBLIC
+CATEGORIES:Intern,Roter Raum
+CREATED:20260701T074758Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3396443406
@@ -8912,6 +9053,22 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260111T222603Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225114
+DTSTART:20260803T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260803T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903338
 DTSTART:20260803T173000Z
 SEQUENCE:0
@@ -8927,6 +9084,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757940
+DTSTART:20260804T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260804T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3397157218
@@ -9008,6 +9177,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225115
+DTSTART:20260810T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260810T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903339
 DTSTART:20260810T173000Z
 SEQUENCE:0
@@ -9023,6 +9208,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757941
+DTSTART:20260811T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260811T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG2898313581
@@ -9049,6 +9246,22 @@ ATTENDEE:Vorstand
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260624T143055Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225116
+DTSTART:20260817T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260817T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903340
@@ -9079,6 +9292,18 @@ CLASS:PUBLIC
 CATEGORIES:Intern,Roter Raum
 CREATED:20260629T082959Z
 LAST-MODIFIED:20260629T083018Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757942
+DTSTART:20260818T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260818T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3397167043
@@ -9161,6 +9386,22 @@ CATEGORIES:Intern,Roter Raum
 CREATED:20260628T132947Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225117
+DTSTART:20260824T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260824T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903341
 DTSTART:20260824T173000Z
 SEQUENCE:0
@@ -9176,6 +9417,18 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101526Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3417757943
+DTSTART:20260825T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260825T210000Z
+SUMMARY:DienstagsDungeon (intern / Blauer Raum (B))
+ATTENDEE:hannes\;
+CLASS:PUBLIC
+CATEGORIES:Intern,Blauer Raum
+CREATED:20260701T192427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576493
@@ -9205,6 +9458,22 @@ ATTENDEE:Ralf
 CLASS:PUBLIC
 CATEGORIES:Intern,Blauer Raum
 CREATED:20260628T190022Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225118
+DTSTART:20260831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260831T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903342
@@ -9239,6 +9508,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225119
+DTSTART:20260907T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260907T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903343
@@ -9284,6 +9569,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225120
+DTSTART:20260914T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260914T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903344
 DTSTART:20260914T173000Z
 SEQUENCE:0
@@ -9316,6 +9617,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120624Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225121
+DTSTART:20260921T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260921T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903345
@@ -9367,6 +9684,22 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003121Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225122
+DTSTART:20260928T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20260928T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903346
 DTSTART:20260928T173000Z
 SEQUENCE:0
@@ -9399,6 +9732,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225123
+DTSTART:20261005T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261005T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903347
@@ -9444,6 +9793,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225124
+DTSTART:20261012T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261012T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903348
 DTSTART:20261012T173000Z
 SEQUENCE:0
@@ -9478,6 +9843,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120624Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225125
+DTSTART:20261019T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261019T170000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903349
 DTSTART:20261019T173000Z
 SEQUENCE:0
@@ -9508,6 +9889,22 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225126
+DTSTART:20261026T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261026T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903350
@@ -9544,6 +9941,22 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260612T135506Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225127
+DTSTART:20261102T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261102T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903351
 DTSTART:20261102T183000Z
 SEQUENCE:0
@@ -9576,6 +9989,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225128
+DTSTART:20261109T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261109T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903352
@@ -9621,6 +10050,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225129
+DTSTART:20261116T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261116T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903353
 DTSTART:20261116T183000Z
 SEQUENCE:0
@@ -9653,6 +10098,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120624Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225130
+DTSTART:20261123T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261123T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903354
@@ -9704,6 +10165,22 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003121Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225131
+DTSTART:20261130T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261130T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903355
 DTSTART:20261130T183000Z
 SEQUENCE:0
@@ -9736,6 +10213,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225132
+DTSTART:20261207T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261207T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903356
@@ -9781,6 +10274,22 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG3414225133
+DTSTART:20261214T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261214T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903357
 DTSTART:20261214T183000Z
 SEQUENCE:0
@@ -9813,6 +10322,22 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120624Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225134
+DTSTART:20261221T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261221T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903358
@@ -9862,6 +10387,22 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG3414225135
+DTSTART:20261228T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261228T180000Z
+SUMMARY:Spielen auf deutsch (DaF)
+ATTENDEE:Béa
+CLASS:PUBLIC
+DESCRIPTION:Gemeinsam wollen wir Spiele spielen und gleichzeitig die deutsc
+ he Sprache in Alltagssituationen lernen und üben.\n\nEvent is for learnin
+ g and practicing German language for everyday life situations while playin
+ g games.
+CATEGORIES:Öffentlich,Blauer Raum
+CREATED:20260701T095030Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903359
