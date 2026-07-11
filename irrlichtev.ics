@@ -3,37 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG1168557574
-DTSTART:20250711T163000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250711T213000Z
-SUMMARY:Vampire Aachen
-ATTENDEE:Steve
-CLASS:PUBLIC
-CATEGORIES:Intern,Roter Raum
-CREATED:20250624T081607Z
-LAST-MODIFIED:20250624T081637Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG1169217493
-DTSTART:20250711T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250711T215500Z
-SUMMARY:Blood on the clocktower
-ATTENDEE:Benny
-CLASS:PUBLIC
-DESCRIPTION:Forge alliances\, lay false trails\, spin lies and expose them 
- – welcome to the Social Deduction Night at Irrlicht!\n\nVeterans and com
- plete beginners are welcome!\nDepending on your experience level\, we will
-  choose the appropriate script.\nRules will be explained on the spot – I
- f you don't know them yet\, please make Sure to arrive 15min before\, so w
- e can start in time =)
-CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
-CREATED:20250624T162253Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG324902852
 DTSTART:20250712T120000Z
 SEQUENCE:0
