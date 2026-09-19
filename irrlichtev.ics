@@ -3,37 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG1250507330
-DTSTART:20250919T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250919T210000Z
-SUMMARY:CCXVII DSA \"Träume von Macht\" (intern/ Roter Raum (B+L)
-ATTENDEE:Jörg
-CLASS:PUBLIC
-DESCRIPTION:Bluetooth Box\, Leinwand\,
-CATEGORIES:Intern,Roter Raum
-CREATED:20250824T102538Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG1154244051
-DTSTART:20250919T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20250919T213000Z
-LOCATION:Irrlicht e.V. -Weltenschmiede
-SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
-ATTENDEE:Julia Michael Lars
-CLASS:PUBLIC
-DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
- ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
- he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
- hday!
-CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
-CREATED:20250613T141951Z
-LAST-MODIFIED:20250623T080522Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG1153975043
 DTSTART:20250920T120000Z
 SEQUENCE:0
