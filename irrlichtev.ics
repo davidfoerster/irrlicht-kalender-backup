@@ -3,32 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG1312521654
-DTSTART:20251019T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20251019T180000Z
-SUMMARY:KillTeam
-ATTENDEE:Chris
-CLASS:PUBLIC
-CATEGORIES:Intern,Blauer Raum
-CREATED:20250928T164141Z
-LAST-MODIFIED:20251008T171048Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG1246425655
-DTSTART:20251019T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20251019T180000Z
-SUMMARY:DnD ???
-ATTENDEE:Ralf
-CLASS:PUBLIC
-CATEGORIES:Intern,Roter Raum
-CREATED:20250821T181635Z
-LAST-MODIFIED:20251008T171053Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG324903297
 DTSTART:20251020T173000Z
 SEQUENCE:0
@@ -8162,19 +8136,6 @@ CATEGORIES:Intern,Roter Raum
 CREATED:20260926T215035Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KDIG3874643762
-DTSTART:20261007T153000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20261007T193000Z
-SUMMARY:CCC-Call of Cthulhu Club (intern)
-ATTENDEE:David/Malte\, Joni
-CLASS:PUBLIC
-CATEGORIES:Intern,Roter Raum
-CREATED:20260829T103402Z
-LAST-MODIFIED:20260829T103548Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG3874614130
 DTSTART:20261007T160000Z
 SEQUENCE:0
@@ -8508,18 +8469,6 @@ CATEGORIES:Intern,Blauer Raum
 CREATED:20260830T090031Z
 END:VEVENT
 BEGIN:VEVENT
-UID:KDIG4098344029
-DTSTART:20261020T163000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20261020T210000Z
-SUMMARY:WFRP - Der Innere Feind (intern / roter Raum)
-ATTENDEE:Martin F
-CLASS:PUBLIC
-CATEGORIES:Intern,Roter Raum
-CREATED:20260926T215044Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG4275317105
 DTSTART:20261021T120000Z
 SEQUENCE:0
@@ -8596,6 +8545,19 @@ X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20241223T214827Z
 LAST-MODIFIED:20260927T062329Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4283717855
+DTSTART:20261026T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261026T183000Z
+SUMMARY:Tabletop
+ATTENDEE:Malek & Phil
+CLASS:PUBLIC
+CATEGORIES:Intern,Grüner Raum
+CREATED:20261019T214522Z
+LAST-MODIFIED:20261019T214528Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3414225126
@@ -8746,6 +8708,35 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4280636856
+DTSTART:20261107T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261107T225900Z
+SUMMARY:Gedenken und Abschiedsfeier für Danny Guerke
+ATTENDEE:Patrick Dirk-Martin
+CLASS:PUBLIC
+DESCRIPTION:Hallo liebe Irrlichter!\n\nWie Ihr schon erfahren habt\, sind M
+ itte des Jahres unsere beiden Ehrenmitglieder Thomas und Danny verstorben.
+  Thomas hat es kurz vorher noch einmal in den Verein geschafft\, Danny lei
+ der nicht.\n\nDannys Beerdigung hat sich etwas hingezogen und war dann doc
+ h eher kurzfristig\, daher konnten wir vielleicht nicht alle informieren\,
+  die sich von ihm verabschieden wollten. Wir wollen hiermit allen\, die ih
+ n kannten und deren Leben er bereichert hat\, die Möglichkeit geben\, ihm
+  in der Form zu gedenken\, die er gewollt hätte\, also mit einer Feier\, 
+ die sein Leben und nicht sein Ende in den Vordergrund stellt.\n\nWir werde
+ n eine Indoor-Tischtennisplatte für den blauen Raum besorgen\, spielen\, 
+ lachen\, weinen und in Erinnerungen schwelgen. Wir wollen ein kleines Buff
+ et aufbauen und wer etwas dazu beisteuern will\, sagt mir oder Patrick seh
+ r gerne Bescheid was\, damit wir nicht mit 20 Salaten dastehen.\n\nWir wü
+ rden uns über jeden freuen\, der kommt\, alle Freunde von Danny sind eing
+ eladen\, auch die außerhalb des Vereins.\n\nBeste Grüße\, cheers und bi
+ s dann hoffentlich!\n\nDirk & Patrick
+CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
+CREATED:20261019T124031Z
+LAST-MODIFIED:20261019T124121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3414225128
