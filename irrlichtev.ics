@@ -3,44 +3,6 @@ VERSION:2.0
 PRODID:kalender.digital
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:KDIG1368622085
-DTSTART:20251123T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20251123T190000Z
-SUMMARY:KillTeam and Clean
-ATTENDEE:Chris\, Phil\, Alex\, Tamino
-CLASS:PUBLIC
-CATEGORIES:Intern,Blauer Raum,Roter Raum
-CREATED:20251027T092438Z
-LAST-MODIFIED:20251119T174307Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG1382155710
-DTSTART:20251123T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20251123T150000Z
-SUMMARY:Mothership
-ATTENDEE:Max
-CLASS:PUBLIC
-DESCRIPTION:Kafka Crew
-CATEGORIES:Intern,Grüner Raum
-CREATED:20251102T135348Z
-END:VEVENT
-BEGIN:VEVENT
-UID:KDIG1571107249
-DTSTART:20251123T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20251123T220000Z
-SUMMARY:Brettspiele
-ATTENDEE:Robert
-CLASS:PUBLIC
-CATEGORIES:Intern,Blauer Raum
-CREATED:20251123T160928Z
-END:VEVENT
-BEGIN:VEVENT
 UID:KDIG324903302
 DTSTART:20251124T183000Z
 SEQUENCE:0
@@ -7957,6 +7919,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120732Z
+LAST-MODIFIED:20261123T001008Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG4280636856
@@ -8304,6 +8267,18 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101527Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4562423463
+DTSTART:20261124T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261124T210000Z
+SUMMARY:Brettspielrunde
+ATTENDEE:Bertram
+CLASS:PUBLIC
+CATEGORIES:Intern,Roter Raum
+CREATED:20261123T134817Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG4380710596
 DTSTART:20261124T170000Z
 SEQUENCE:0
@@ -8393,9 +8368,22 @@ ATTENDEE:Thomas|Christoph
 CLASS:PUBLIC
 DESCRIPTION:Anmeldung via Discord Server erforderlich
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20241223T214827Z
-LAST-MODIFIED:20261029T181016Z
+LAST-MODIFIED:20261123T203034Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4564707421
+DTSTART:20261128T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20261128T190000Z
+SUMMARY:D&D Mad Dragon
+ATTENDEE:Frank
+CLASS:PUBLIC
+CATEGORIES:Intern,Roter Raum
+CREATED:20261123T203035Z
+LAST-MODIFIED:20261123T203045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG3414225131
@@ -8515,6 +8503,20 @@ CLASS:PUBLIC
 CATEGORIES:Intern,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260605T120732Z
 LAST-MODIFIED:20261120T075706Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4564719612
+DTSTART;VALUE=DATE:20261205
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20261206
+SUMMARY:14:00 Monster of the Week
+ATTENDEE:Thomas\, Christoph
+CLASS:PUBLIC
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Intern,Roter Raum
+CREATED:20261123T203359Z
+LAST-MODIFIED:20261123T203502Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG4503150849
@@ -8796,6 +8798,7 @@ DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
  hday!
 CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
 CREATED:20260605T120624Z
+LAST-MODIFIED:20261123T000928Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG4364675678
@@ -8943,6 +8946,23 @@ CATEGORIES:Öffentlich,Blauer Raum
 CREATED:20261104T143023Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871088
+DTSTART:20270101T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270101T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG324903360
 DTSTART:20270104T183000Z
 SEQUENCE:0
@@ -8987,6 +9007,23 @@ DESCRIPTION:Monday is Funday! Die beste Art in die Woche zu starten! \nBret
   Spieletreff - Kommt einfach vorbei!
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101527Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868033
+DTSTART:20270115T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270115T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000928Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG324903362
@@ -9072,6 +9109,23 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20230203T101527Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871089
+DTSTART:20270205T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270205T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909455
 DTSTART:20270213T130000Z
 SEQUENCE:0
@@ -9082,6 +9136,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868034
+DTSTART:20270219T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270219T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576500
@@ -9116,6 +9187,23 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871090
+DTSTART:20270305T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270305T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909456
 DTSTART:20270313T130000Z
 SEQUENCE:0
@@ -9126,6 +9214,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868035
+DTSTART:20270319T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270319T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576501
@@ -9176,6 +9281,23 @@ CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20261029T220618Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871091
+DTSTART:20270402T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270402T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909457
 DTSTART:20270410T120000Z
 SEQUENCE:0
@@ -9186,6 +9308,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868036
+DTSTART:20270416T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270416T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG948233012
@@ -9220,6 +9359,23 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260925T173550Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871092
+DTSTART:20270507T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270507T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909458
 DTSTART:20270508T120000Z
 SEQUENCE:0
@@ -9230,6 +9386,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868037
+DTSTART:20270521T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270521T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG948233013
@@ -9264,6 +9437,23 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260925T173550Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871093
+DTSTART:20270604T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270604T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909459
 DTSTART:20270612T120000Z
 SEQUENCE:0
@@ -9274,6 +9464,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868038
+DTSTART:20270618T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270618T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576506
@@ -9308,6 +9515,23 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871094
+DTSTART:20270702T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270702T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3357020193
 DTSTART:20270710T120000Z
 SEQUENCE:0
@@ -9318,6 +9542,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260624T173202Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868039
+DTSTART:20270716T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270716T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG948233015
@@ -9352,6 +9593,23 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260925T173550Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871095
+DTSTART:20270806T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270806T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3357011706
 DTSTART:20270814T120000Z
 SEQUENCE:0
@@ -9361,6 +9619,23 @@ SUMMARY:Sommerfest (öffentlich/alle Räume)
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260624T172926Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868040
+DTSTART:20270820T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270820T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576513
@@ -9395,6 +9670,23 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871096
+DTSTART:20270903T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270903T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909462
 DTSTART:20270911T120000Z
 SEQUENCE:0
@@ -9405,6 +9697,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868041
+DTSTART:20270917T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20270917T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576516
@@ -9439,6 +9748,23 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871097
+DTSTART:20271001T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271001T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909463
 DTSTART:20271009T120000Z
 SEQUENCE:0
@@ -9449,6 +9775,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868042
+DTSTART:20271015T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271015T213000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG948233018
@@ -9483,6 +9826,23 @@ CREATED:20260101T165102Z
 LAST-MODIFIED:20260925T173550Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871098
+DTSTART:20271105T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271105T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909464
 DTSTART:20271113T130000Z
 SEQUENCE:0
@@ -9493,6 +9853,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868043
+DTSTART:20271119T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271119T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG1878576523
@@ -9527,6 +9904,23 @@ CREATED:20241223T214827Z
 LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 BEGIN:VEVENT
+UID:KDIG4557871099
+DTSTART:20271203T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271203T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T001008Z
+END:VEVENT
+BEGIN:VEVENT
 UID:KDIG3319909465
 DTSTART:20271211T130000Z
 SEQUENCE:0
@@ -9537,6 +9931,23 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG4557868044
+DTSTART:20271217T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20271217T223000Z
+LOCATION:Irrlicht e.V. -Weltenschmiede
+SUMMARY:Friday is Highday (öffentlich / Blauer und Grüner Raum)
+ATTENDEE:Julia Michael Lars
+CLASS:PUBLIC
+DESCRIPTION:Unser beliebter \"kleiner Spieletag\". \nAn jedem ersten\, drit
+ ten und letzten Freitag wird der Friday zum Highday. Die beste Art die Woc
+ he abzuschließen und ins Wochenende zu starten ... denn ... Friday is Hig
+ hday!
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20261123T000929Z
 END:VEVENT
 BEGIN:VEVENT
 UID:KDIG948233020
@@ -10547,5 +10958,20 @@ ATTENDEE:Julia Michael Lars
 CLASS:PUBLIC
 CATEGORIES:Öffentlich,Blauer Raum,Roter Raum,Grüner Raum
 CREATED:20260620T095043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:KDIG948233044
+DTSTART;VALUE=DATE:20291124
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;VALUE=DATE:20291125
+SUMMARY:One Shot Day
+ATTENDEE:Thomas|Nina|Kirsten
+CLASS:PUBLIC
+DESCRIPTION:Anmeldung via Discord Server erforderlich
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+CATEGORIES:Öffentlich,Blauer Raum,Grüner Raum
+CREATED:20241223T214827Z
+LAST-MODIFIED:20250204T003122Z
 END:VEVENT
 END:VCALENDAR
